@@ -1,3 +1,47 @@
+# Fly Music Engine
+
+Turn sunset images into an original jazz composition through a whole-brain fly simulation.
+
+**Images → approximate visual stimulation → FlyWire neural activity → jazz MIDI → stereo audio.**
+
+Built on [eonsystemspbc/fly-brain](https://github.com/eonsystemspbc/fly-brain), with its
+existing PyTorch neuron model and full connectivity. Visual inputs use documented
+proxy neurons; this is biologically inspired sonification, not a complete fly retina.
+
+- [Listen/download the two-minute WAV](sunset_fly_jazz.wav)
+- [Download the MIDI score](sunset_fly_jazz.mid)
+- [Inspect the provenance](sunset_fly_jazz_provenance.json)
+- [Read the experiment report](data/sunset_jazz/final_report.txt)
+
+The included run used four sunset images, eight one-second trials per image,
+138,639 model neurons and 1,000 proxy inputs. It produced 16,017,087 spikes and
+an original 461-note, 40-bar composition at 80 BPM. The final audio is exactly
+120 seconds, stereo, 48 kHz / 24-bit PCM, rendered with MuseScore General.
+
+### Run locally
+
+```bash
+sh scripts/setup_sunset_audio.sh
+source .venv/bin/activate
+python sunset_jazz.py
+python scripts/verify_sunset_outputs.py
+python scripts/check_sunset_causality.py
+```
+
+Python packages and native FluidSynth/FFmpeg tools install inside `.venv`.
+SoundFonts are downloaded from their upstream sources with license notices.
+The environment, downloaded SoundFont binaries and weight caches are excluded
+from Git. Source images, spike recordings, features, final music and validation
+reports are included. See [Sunset Fly Jazz](#sunset-fly-jazz) below for details.
+
+### Attribution and license
+
+This project retains the upstream GPL-2.0-or-later license and third-party notices.
+The original fly-brain documentation follows. SoundFonts retain their own licenses
+under `soundfonts/`; their source URLs and checksums are recorded there.
+
+---
+
 # Emulation of the *Drosophila Fly* Brain
 
 Whole-brain leaky integrate-and-fire model of the adult fruit fly, built from the
@@ -422,3 +466,80 @@ Third-party components retain their original notices. In particular, the
 Shiu et al. Brian2 materials in `code/paper-phil-drosophila/` remain available
 under their upstream [MIT License](code/paper-phil-drosophila/LICENSE), and the
 adapted NEST GPU model files retain their GPL-2.0-or-later notices.
+
+## Sunset Fly Jazz
+
+`sunset_jazz.py` executes this chain:
+
+Sunset image → approximate RGB visual encoding → proxy sensory stimulation →
+existing whole-brain `TorchModel` → recorded neural responses → original jazz MIDI
+→ licensed SoundFont and FluidSynth → stereo WAV.
+
+The bundled completeness CSV has no visual annotations, so deterministic valid
+FlyWire IDs serve as proxy input neurons. These are biologically inspired visual
+stimuli, **not** literal emulation of the complete Drosophila retina. UV is unavailable
+and set to zero. Source filenames in this run say “ChatGPT Image”; the pipeline
+does not establish that they are camera photographs.
+
+Use the isolated environment (all installed native tools are under `.venv/native`):
+
+```bash
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements-sunset.txt
+source .venv/bin/activate
+python sunset_jazz.py
+```
+
+Place four sunset PNG/JPEG/WebP images in the repository root. Files are sorted
+by filename. In the supplied workspace, four distinct images were copied from
+the parent directory; one byte-identical duplicate was excluded.
+
+The default experiment runs eight trials of one biological second per image,
+at 0.1 ms resolution. The final 15% removes input to measure recurrent persistence.
+For limited hardware, reduce trials to four, then input count from 1000 to 500,
+then duration to 0.5 seconds using `--trials 4 --inputs 500 --duration 0.5`.
+`--resume` reuses only spike caches matching source/data/code/configuration hashes.
+`--render-only` rerenders a completed composition without rerunning the brain.
+
+The 40-bar original piece uses 80 BPM, 4/4, and four 10-bar sections. Neural
+population ranks define the motif; measured activity, dispersion, burstiness,
+latency, persistence, and trial variability control density, harmony, phrasing,
+timing, and pan. Full mappings, parameters, hashes and scientific limitations
+are recorded in `sunset_fly_jazz_provenance.json`. The composer never reads RGB.
+
+Outputs: `sunset_fly_jazz.mid`, `sunset_fly_jazz.wav` (120 seconds, stereo,
+48 kHz, 24-bit PCM), and provenance JSON. Spike parquet files, features and
+renderer logs are under `data/sunset_jazz/`. Validation reopens MIDI, checks
+balanced notes, markers and duration, and checks audio duration, channels,
+non-silence, peak and RMS. Static gain and a three-second ending fade preserve
+dynamics; peak headroom takes priority over reaching -16 LUFS.
+
+SoundFonts live under `soundfonts/`, with their original license notices.
+The preferred source is the MuseScore General OSU mirror; the second is
+[GeneralUser GS by S. Christian Collins](https://github.com/mrbumpy409/GeneralUser-GS).
+Both are rendered and measured; the first successful licensed font in the
+preferred order is selected. Objective checks do not substitute for listening.
+
+For a fresh macOS Apple Silicon or Linux x86-64 setup, run
+`sh scripts/setup_sunset_audio.sh` to install Python dependencies, a native
+FluidSynth/FFmpeg environment nested inside `.venv`, and both licensed SoundFonts.
+No `sudo`, Homebrew installation, or global Python installation is used.
+
+On CPU, `sunset_cpu_weights.py` accelerates only recurrent matrix multiplication:
+it selects columns of the unchanged full connectivity matrix for presynaptic
+neurons that actually fired. All six state tensors and spike events matched the
+stock PyTorch multiplication bit-for-bit over 160 steps and four trials in
+`data/sunset_jazz/cpu_adapter_validation.json`. It is a SciPy event-sparse linear
+algebra adapter, not a replacement neuron simulator. CUDA uses stock PyTorch
+weights. The benchmark files remain unchanged.
+
+After execution, run the independent checks inside the environment:
+
+```bash
+python scripts/verify_sunset_outputs.py
+python scripts/check_sunset_causality.py
+```
+
+The second check regenerates the MIDI in a temporary directory to verify
+bit-identical deterministic composition, then permutes only the recorded neural
+features and verifies that the music changes. It does not alter the final outputs.

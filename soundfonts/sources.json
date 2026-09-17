@@ -1,0 +1,16 @@
+[
+  {
+    "file": "MuseScore_General.sf2",
+    "source": "https://ftp.osuosl.org/pub/musescore/soundfont/MuseScore_General/MuseScore_General.sf2",
+    "license": "MuseScore_General_License.md",
+    "sha256": "ee51d2c4b1525e70f19a45909c4fd7a2e26d91d115fa89dbf5a6bc413d8b9bf3",
+    "bytes": 215614036
+  },
+  {
+    "file": "GeneralUser_GS.sf2",
+    "source": "https://raw.githubusercontent.com/mrbumpy409/GeneralUser-GS/main/GeneralUser-GS.sf2",
+    "license": "GeneralUser_GS_LICENSE.txt",
+    "sha256": "9575028c7a1f589f5770fccc8cff2734566af40cd26ed836944e9a5152688cfe",
+    "bytes": 32319396
+  }
+]

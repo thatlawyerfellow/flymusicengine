@@ -16,3 +16,23 @@ data/results/nature_2026_07/archive*
 # PyTorch cached weight matrices (generated from connectivity data)
 data/weight_coo.pkl
 data/weight_csr.pkl
+
+# Local sunset pipeline environment and generated caches
+.venv/
+soundfonts/*.sf2
+data/sunset_jazz/*_raw.wav
+data/sunset_jazz/weight_*.pkl
+
+# Publish reproducibility artifacts, not local installation/debug files.
+data/sunset_jazz/*
+!data/sunset_jazz/features.csv
+!data/sunset_jazz/image_*_spikes.parquet
+!data/sunset_jazz/image_*_spikes.json
+!data/sunset_jazz/*validation.json
+!data/sunset_jazz/composition_provenance.json
+!data/sunset_jazz/python-environment.txt
+!data/sunset_jazz/input_import.json
+!data/sunset_jazz/simulation_source.py
+!data/sunset_jazz/final_report.txt
+!data/sunset_jazz/validate_cpu_adapter.py
+.DS_Store

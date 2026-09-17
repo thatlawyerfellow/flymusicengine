@@ -1,0 +1,16 @@
+{
+  "steps": 160,
+  "biological_ms": 16,
+  "trials": 4,
+  "all_six_state_tensors_bit_identical": true,
+  "spikes": 8139,
+  "elapsed_seconds": [
+    23.50887787399997,
+    1.3675409629999917
+  ],
+  "speedup": 17.19062061762907,
+  "integer_weights": true,
+  "max_absolute_incoming_weight_sum": 69948.0,
+  "float32_exact_integer_limit": 16777216,
+  "exact_sum_reason": "Binary spikes and integer weights; all partial sums bounded below float32 exact-integer limit, so zero-skipping does not change sums."
+}
