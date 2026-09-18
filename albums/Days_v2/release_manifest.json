@@ -1,0 +1,74 @@
+{
+  "album": "Days",
+  "artist": "Fly on a Wall",
+  "tag": "days-v1.0",
+  "license": "CC-BY-NC-4.0",
+  "soundcloud": "https://soundcloud.com/ajay-kumar-819538867/sets/days",
+  "format": "48 kHz / 24-bit stereo WAV",
+  "files": [
+    {
+      "file": "01_Sunrise.wav",
+      "title": "Sunrise",
+      "duration_seconds": 280,
+      "bytes": 82890208,
+      "sha256": "7bfcf2eb8c71600061bb046b23d0f33fb206fe953878478af57d733076080e7a",
+      "download_url": "https://github.com/thatlawyerfellow/flymusicengine/releases/download/days-v1.0/01_Sunrise.wav"
+    },
+    {
+      "file": "02_Traffic.wav",
+      "title": "Traffic",
+      "duration_seconds": 240,
+      "bytes": 71370208,
+      "sha256": "6c9c768bf89ee3465066539ef398dcee361fea18adb0c879d03a90293619b209",
+      "download_url": "https://github.com/thatlawyerfellow/flymusicengine/releases/download/days-v1.0/02_Traffic.wav"
+    },
+    {
+      "file": "03_High_Noon.wav",
+      "title": "High Noon",
+      "duration_seconds": 288,
+      "bytes": 85194214,
+      "sha256": "46453c5400d0edeecc4673b87c7d4c6cc49485cc95d337abdcd8e35ddefea7cb",
+      "download_url": "https://github.com/thatlawyerfellow/flymusicengine/releases/download/days-v1.0/03_High_Noon.wav"
+    },
+    {
+      "file": "04_Rainy_Evening_Drizzle.wav",
+      "title": "Rainy Evening Drizzle",
+      "duration_seconds": 320,
+      "bytes": 94410250,
+      "sha256": "2d3955df27cedf75fd5db56712f6f3d9e37268ab61893d9d692112905b98cb39",
+      "download_url": "https://github.com/thatlawyerfellow/flymusicengine/releases/download/days-v1.0/04_Rainy_Evening_Drizzle.wav"
+    },
+    {
+      "file": "05_Sunset.wav",
+      "title": "Sunset",
+      "duration_seconds": 312,
+      "bytes": 92106206,
+      "sha256": "165a9f1d104f1a667e467399533e3a568cc6da01c35bdb742350abc28b5b28bf",
+      "download_url": "https://github.com/thatlawyerfellow/flymusicengine/releases/download/days-v1.0/05_Sunset.wav"
+    },
+    {
+      "file": "06_Crescent_Moon.wav",
+      "title": "Crescent Moon",
+      "duration_seconds": 328,
+      "bytes": 96714226,
+      "sha256": "3248d8f8528f497758baa0e9bf5e96b999b355a2469d76c0ddecbba0da3aaf94",
+      "download_url": "https://github.com/thatlawyerfellow/flymusicengine/releases/download/days-v1.0/06_Crescent_Moon.wav"
+    },
+    {
+      "file": "07_Bombolini.wav",
+      "title": "Bombolini",
+      "duration_seconds": 272,
+      "bytes": 80586214,
+      "sha256": "3813b473db9a2caf46c5da1df16930dd80f49d9ae50cc29b768e0c9430b61874",
+      "download_url": "https://github.com/thatlawyerfellow/flymusicengine/releases/download/days-v1.0/07_Bombolini.wav"
+    },
+    {
+      "file": "Days_full_album.wav",
+      "title": "Days \u2014 complete album",
+      "duration_seconds": 2040,
+      "bytes": 589770172,
+      "sha256": "6ce8677bcecbb0c4e080ac83ef0afea4e39c7e3e10f31b5b630c4658b1dcaef4",
+      "download_url": "https://github.com/thatlawyerfellow/flymusicengine/releases/download/days-v1.0/Days_full_album.wav"
+    }
+  ]
+}

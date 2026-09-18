@@ -1,0 +1,4510 @@
+{
+  "album": "Days",
+  "tracks": [
+    "Sunrise",
+    "Traffic",
+    "High Noon",
+    "Rainy Evening Drizzle",
+    "Sunset",
+    "Crescent Moon",
+    "Bombolini"
+  ],
+  "source_images": [
+    {
+      "scene": "sunrise",
+      "path": "artwork/sunrise/01.png",
+      "sha256": "fbf922b420a5887e2fa152659ba3cccff73100d90ecd9f04764c4db2fb300301"
+    },
+    {
+      "scene": "sunrise",
+      "path": "artwork/sunrise/02.png",
+      "sha256": "c78e84a2ed9229aa84f5d2fb0e4e43adb8af41a2295a9196f0fb71108338e119"
+    },
+    {
+      "scene": "sunrise",
+      "path": "artwork/sunrise/03.png",
+      "sha256": "a894737973e20d94fb0f233c122ad72ca4053b15da5500b2e29ff6cc169a6b57"
+    },
+    {
+      "scene": "sunrise",
+      "path": "artwork/sunrise/04.png",
+      "sha256": "5b9d98951f282e34d8fd9b31dea0214a0df11076600eefa1681c2163b7822d48"
+    },
+    {
+      "scene": "sunrise",
+      "path": "artwork/sunrise/05.png",
+      "sha256": "63b8280f9702ac3751059e6a42546327f76ca12f30456dbef48bc6211f6ffe70"
+    },
+    {
+      "scene": "sunrise",
+      "path": "artwork/sunrise/06.png",
+      "sha256": "66230d1c00ee6840a727e435a21d3d09c8d2210c0db85ccbf035756903ce3337"
+    },
+    {
+      "scene": "sunrise",
+      "path": "artwork/sunrise/07.png",
+      "sha256": "f231d7587b5d5d1020e6d53b455ad1c97670d32027ece59348918c8afa1c9247"
+    },
+    {
+      "scene": "sunrise",
+      "path": "artwork/sunrise/08.png",
+      "sha256": "46778a61443f32e863c16dba988a11cb6501cb99f033ed26a0da5c31aebf06eb"
+    },
+    {
+      "scene": "sunrise",
+      "path": "artwork/sunrise/09.png",
+      "sha256": "ca6dca5b03abd0825cf488e5e295e411dd6eda4b143478e5a29a8cf979fdf8e3"
+    },
+    {
+      "scene": "sunrise",
+      "path": "artwork/sunrise/10.png",
+      "sha256": "b935a0bb9b38c969668cbec0b963bb30a3caad4306471a88f573b33854de331d"
+    },
+    {
+      "scene": "sunrise",
+      "path": "artwork/sunrise/11.png",
+      "sha256": "39b2bc93efce199eab69929c0bdb1b5e36b3f096442649a51316e76a9306f0b7"
+    },
+    {
+      "scene": "sunrise",
+      "path": "artwork/sunrise/12.png",
+      "sha256": "bd84872c11c2c56524ce90561b5f338e983ce7baec2605085aeea375351cd66d"
+    },
+    {
+      "scene": "sunrise",
+      "path": "artwork/sunrise/13.png",
+      "sha256": "badc05770d43306453de834547d54839f1cd54e5d636310e32b35903082ce51d"
+    },
+    {
+      "scene": "sunrise",
+      "path": "artwork/sunrise/14.png",
+      "sha256": "2a06c7491ce6ed003242184b93b4d5e5d58649417af8e8dfdee05d20286aab14"
+    },
+    {
+      "scene": "sunrise",
+      "path": "artwork/sunrise/15.png",
+      "sha256": "f1963adae486652ea458174df79728ad044d01660bf2462b61cc98221d800037"
+    },
+    {
+      "scene": "traffic",
+      "path": "artwork/traffic/01.png",
+      "sha256": "6ea89eb026c17aea5db3ee9c0bfc66de975529a23e700245f228d94a3690a284"
+    },
+    {
+      "scene": "traffic",
+      "path": "artwork/traffic/02.png",
+      "sha256": "b49be3e61722f96c01a8805a3754c901a6ca282c92a66cbeb7ac948b79878b97"
+    },
+    {
+      "scene": "traffic",
+      "path": "artwork/traffic/03.png",
+      "sha256": "116cf0af220c23c99df93775683eec4b1203632d0511a16ee494cfb1ee1d83af"
+    },
+    {
+      "scene": "traffic",
+      "path": "artwork/traffic/04.png",
+      "sha256": "d51261f9ebeb98ac2c6230dae343946c2f7cec32dbadfd504ea5355c4dca95cd"
+    },
+    {
+      "scene": "traffic",
+      "path": "artwork/traffic/05.png",
+      "sha256": "4edb56cb74d9c7d346824b59551e84309af92d4a1a8af9f1c48c9429a274e4c9"
+    },
+    {
+      "scene": "traffic",
+      "path": "artwork/traffic/06.png",
+      "sha256": "8de7b11e58b4d5ba1e084062ddb02eb1062a51385891ed843c550d1b2691abbf"
+    },
+    {
+      "scene": "traffic",
+      "path": "artwork/traffic/07.png",
+      "sha256": "54246b9f3ffbd167aef43b003ecea529270c91568849637552ba288176fa517e"
+    },
+    {
+      "scene": "traffic",
+      "path": "artwork/traffic/08.png",
+      "sha256": "c64e87af5ebaaf3ca2622d006ad58b14afcd03cab139f87daf5044f224ba5526"
+    },
+    {
+      "scene": "traffic",
+      "path": "artwork/traffic/09.png",
+      "sha256": "7f88c320af3ac47be6fff0d194c9e64b36aaecffefdbb07d5d64240536b5b92a"
+    },
+    {
+      "scene": "traffic",
+      "path": "artwork/traffic/10.png",
+      "sha256": "6654c99b593acae74a1e9ac512403444f697fa455520ce69270ef311140822d4"
+    },
+    {
+      "scene": "traffic",
+      "path": "artwork/traffic/11.png",
+      "sha256": "281374366e09eee1c7114e28312ec8df05c41657f75dc13fc6484ed5146b40b4"
+    },
+    {
+      "scene": "traffic",
+      "path": "artwork/traffic/12.png",
+      "sha256": "97c513fd136f1dc8ef0eb3706c7f626dc2eb3c4f2f296062b3b6e09c206c9db2"
+    },
+    {
+      "scene": "traffic",
+      "path": "artwork/traffic/13.png",
+      "sha256": "2369adbb9b24e94f832cd2c3b0ebdd8d130337918e5bae0137f2a4546687f2b0"
+    },
+    {
+      "scene": "traffic",
+      "path": "artwork/traffic/14.png",
+      "sha256": "8d79988aa6c28fe522334e5b03be706aad316f5a43bc9b465e287b7c98ab7b43"
+    },
+    {
+      "scene": "traffic",
+      "path": "artwork/traffic/15.png",
+      "sha256": "a3b4803176e4bb8680787fe656fd567e3fd66e41135d6d16291aa57ebae723ef"
+    },
+    {
+      "scene": "high_noon",
+      "path": "artwork/high_noon/01.png",
+      "sha256": "4981afb7e2dbe47504da101b57c473a1fb508a2455bfef4793cf64bf48ff108c"
+    },
+    {
+      "scene": "high_noon",
+      "path": "artwork/high_noon/02.png",
+      "sha256": "2d801e7d24ecef635ee2570c57a01f9a64f90c90564971833885d5a17df2bcc7"
+    },
+    {
+      "scene": "high_noon",
+      "path": "artwork/high_noon/03.png",
+      "sha256": "6c278160f076b13680ea9e9e784d7bec74872902b7beed00ef71edccd0ce58ab"
+    },
+    {
+      "scene": "high_noon",
+      "path": "artwork/high_noon/04.png",
+      "sha256": "742a91e6461ba85d5a17230d814241883731f2f054fc3310b0594fb3b26af11e"
+    },
+    {
+      "scene": "high_noon",
+      "path": "artwork/high_noon/05.png",
+      "sha256": "9f395532d695faa3145699b87716ac28f8c60df617e57665be39f4d3cb9ad56c"
+    },
+    {
+      "scene": "high_noon",
+      "path": "artwork/high_noon/06.png",
+      "sha256": "263a042e492188013c9d8cec44ce238a9e7739698533bc20f9a8ce4746aa4b62"
+    },
+    {
+      "scene": "high_noon",
+      "path": "artwork/high_noon/07.png",
+      "sha256": "5263e2e9aceebe4eaab181d37a7add53cd1d2391bc692796a0eae36d37951114"
+    },
+    {
+      "scene": "high_noon",
+      "path": "artwork/high_noon/08.png",
+      "sha256": "9b6eed7397fe23c01023c603c0292f270b7ae6a7d0a8dae41600fdef930ae745"
+    },
+    {
+      "scene": "high_noon",
+      "path": "artwork/high_noon/09.png",
+      "sha256": "5422b389813dcbb9249114f736b5d3b1071c3d56a913378d10548c00730b2edd"
+    },
+    {
+      "scene": "high_noon",
+      "path": "artwork/high_noon/10.png",
+      "sha256": "cd5ceb031e24ed33aa79cbc7c6d7b0dd7ceedc59f4334ce979649be6ba9b3912"
+    },
+    {
+      "scene": "high_noon",
+      "path": "artwork/high_noon/11.png",
+      "sha256": "22044bd9bdb59af85864e9527a84e13ce1e85284c42edb17a894dd344b26ba65"
+    },
+    {
+      "scene": "high_noon",
+      "path": "artwork/high_noon/12.png",
+      "sha256": "dcfd51d60bb2337c99479ffdd5842f7d9011f3c7f1dfb334abaf4019a268f367"
+    },
+    {
+      "scene": "high_noon",
+      "path": "artwork/high_noon/13.png",
+      "sha256": "4aa40697d32f4d8fe7a899e171c5bf732f7aed4f2e3406390b4d5f2878136657"
+    },
+    {
+      "scene": "high_noon",
+      "path": "artwork/high_noon/14.png",
+      "sha256": "d2f5cdedfc91d20d94ff33aa582906609c9d0cf2307de90831fd559cc5147423"
+    },
+    {
+      "scene": "high_noon",
+      "path": "artwork/high_noon/15.png",
+      "sha256": "d3ed8717017a6bd3c3f85e500d4b6bc8afedab49fce19fed78dfd81933fcb6fc"
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "path": "artwork/rainy_evening_drizzle/01.png",
+      "sha256": "7e11511dd9560eb8a5d7741fd4c04ae64c6fb7cd49c67d07da8df070871d6d84"
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "path": "artwork/rainy_evening_drizzle/02.png",
+      "sha256": "632971e4bc4c496a2897026c2804c4543d483824b581071ec429361302453e58"
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "path": "artwork/rainy_evening_drizzle/03.png",
+      "sha256": "e58f3b6739163b55f3f5cfaa328cd37c0b8b3d5b0419e128f333b3896dddb34e"
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "path": "artwork/rainy_evening_drizzle/04.png",
+      "sha256": "806be941a4b68220109832e1485c5733c05932186aa37766640220f92ee85c10"
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "path": "artwork/rainy_evening_drizzle/05.png",
+      "sha256": "d1a10fbd5094ed0852dbc38f40aacec89dfc2fa05512d86735921cd7680b3f81"
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "path": "artwork/rainy_evening_drizzle/06.png",
+      "sha256": "37d636cb26965dd0a78f56e13d1898751f130eb5dbc670dfbac930ed902340a1"
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "path": "artwork/rainy_evening_drizzle/07.png",
+      "sha256": "0ff4a5ff1b7cadd8c9c411c8ba307c8a0c5b3aa0865a96436af9b1111c63d33b"
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "path": "artwork/rainy_evening_drizzle/08.png",
+      "sha256": "30810c2a2d3ca7018c0eb3b8814a0c21ab87f7173b3ff071089f142fd17f6cfd"
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "path": "artwork/rainy_evening_drizzle/09.png",
+      "sha256": "66b41a8dc3b2cf21acaabc048cdde950a5f32549c3b2f8a7b9a3d8a7a6b116bc"
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "path": "artwork/rainy_evening_drizzle/10.png",
+      "sha256": "ded35f26a611496ff59669b713065660519186c045807531e3f089bddef11720"
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "path": "artwork/rainy_evening_drizzle/11.png",
+      "sha256": "e50e69da39fb0327961724605ce129ec982e9cb6d762c702306f15999e4cb718"
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "path": "artwork/rainy_evening_drizzle/12.png",
+      "sha256": "0384dd5b9c7f16ec2f7a38ae850c462ff5cd966c596dcd0c71d9f98180dbc2d6"
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "path": "artwork/rainy_evening_drizzle/13.png",
+      "sha256": "71f946cf14cb95b01870ba0e50bbb15eea2a89eee479f0499a7774b3cf19c32f"
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "path": "artwork/rainy_evening_drizzle/14.png",
+      "sha256": "b06275618396720d74f67a2703529e1acde92a370bc21e1b809d5b6d5d2a4d9c"
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "path": "artwork/rainy_evening_drizzle/15.png",
+      "sha256": "60b9baefa6d659d54be73eb8aef045431630db5b3bbf7a860608dcdecaf6d0ec"
+    },
+    {
+      "scene": "sunset",
+      "path": "artwork/sunset/01.png",
+      "sha256": "fa5eafccebd4b96c7e8103008f83e888d959490623963985bceb306e50d602a6"
+    },
+    {
+      "scene": "sunset",
+      "path": "artwork/sunset/02.png",
+      "sha256": "83ad90e0e11cd5d2654a7f0ee367aef5531c4d258149c4c47655debd2e97cb62"
+    },
+    {
+      "scene": "sunset",
+      "path": "artwork/sunset/03.png",
+      "sha256": "6349b7f3d431ed2170e8abb8232076626a9e59b48648c755d69e5c2a656525f5"
+    },
+    {
+      "scene": "sunset",
+      "path": "artwork/sunset/04.png",
+      "sha256": "5b458e4407e049e16f0c10d8d5c6015a332ed9cecf60903bbdc96b2dc2522a26"
+    },
+    {
+      "scene": "sunset",
+      "path": "artwork/sunset/05.png",
+      "sha256": "87033de067e36264858f7f6d902745c3d4e0d372908c421d3875512680cdd084"
+    },
+    {
+      "scene": "sunset",
+      "path": "artwork/sunset/06.png",
+      "sha256": "7c8d59c6116c377f2ac2424c88f816e755231489267b87f735073d09e94b5824"
+    },
+    {
+      "scene": "sunset",
+      "path": "artwork/sunset/07.png",
+      "sha256": "faf3bbeece8ac972c5ceb536134618c2d2badf55f762ccb75b914ce93e4581eb"
+    },
+    {
+      "scene": "sunset",
+      "path": "artwork/sunset/08.png",
+      "sha256": "b81990ad4c633ecb3488ae895799445ffff4785e76542e7bd9109de00c13fa9d"
+    },
+    {
+      "scene": "sunset",
+      "path": "artwork/sunset/09.png",
+      "sha256": "da5f9f64149caf8a92c6e1fb17dbc61dbfb4e94f9b980b0931a35d8783f7264a"
+    },
+    {
+      "scene": "sunset",
+      "path": "artwork/sunset/10.png",
+      "sha256": "2ff84dcd3510a662897b64e76e3127fe5770f36da0cc1d041e79993a2f56be72"
+    },
+    {
+      "scene": "sunset",
+      "path": "artwork/sunset/11.png",
+      "sha256": "5f16359ba2148edc07a869fbeca2841bba2455d29613dac11d3ee108a19e2eba"
+    },
+    {
+      "scene": "sunset",
+      "path": "artwork/sunset/12.png",
+      "sha256": "2ffc5c63ef0ac649c7f7ffc0ba8e9c0d597eeac761e3704fe50a0606d2f82018"
+    },
+    {
+      "scene": "sunset",
+      "path": "artwork/sunset/13.png",
+      "sha256": "09c3695bb68df351b06f80ee7e56decb6330e6c4bf56015233509f61a72f2990"
+    },
+    {
+      "scene": "sunset",
+      "path": "artwork/sunset/14.png",
+      "sha256": "a68053ce16c6493160a36cf2ba8d3ba06fe6cb042b992375f23402148669e3ad"
+    },
+    {
+      "scene": "sunset",
+      "path": "artwork/sunset/15.png",
+      "sha256": "6a9d3739376c62d3a18a1ceccca0757dc949fcb123e4f7f67e3dbd527d2319b2"
+    },
+    {
+      "scene": "crescent_moon",
+      "path": "artwork/crescent_moon/01.png",
+      "sha256": "bcc2c0bc46d38924349f7e0913ea6f06488789240d53ed61f76b4b1d5f48aa59"
+    },
+    {
+      "scene": "crescent_moon",
+      "path": "artwork/crescent_moon/02.png",
+      "sha256": "9b5be5e0d2d889bb21598bb2fa35cac5f67c26828ed3ceb3161f6b596cc3c28c"
+    },
+    {
+      "scene": "crescent_moon",
+      "path": "artwork/crescent_moon/03.png",
+      "sha256": "bf6ca4665cd9cf15eeb8eec2792d6e64e3acf52bb749847e8f3f41498a43ce0c"
+    },
+    {
+      "scene": "crescent_moon",
+      "path": "artwork/crescent_moon/04.png",
+      "sha256": "911e96b68040040ac7861a708a9d2930d5c731560f0f37b4b937401457165730"
+    },
+    {
+      "scene": "crescent_moon",
+      "path": "artwork/crescent_moon/05.png",
+      "sha256": "d19da507a8d9d212e3c190714895176491c71428fa7e29712c9c034797a42711"
+    },
+    {
+      "scene": "crescent_moon",
+      "path": "artwork/crescent_moon/06.png",
+      "sha256": "fdc011506f8463148227e0c96179aa7ab3054629d70cbe33dde4ef4f6ff87530"
+    },
+    {
+      "scene": "crescent_moon",
+      "path": "artwork/crescent_moon/07.png",
+      "sha256": "284d84bb107cd1b88c5a145bec49347d5f449feea579ed29a3b1ffa68c75a834"
+    },
+    {
+      "scene": "crescent_moon",
+      "path": "artwork/crescent_moon/08.png",
+      "sha256": "c204b44a578cdcee9345027e5831eb6ddd3054149bc259e8ffed468a7ef05c8b"
+    },
+    {
+      "scene": "crescent_moon",
+      "path": "artwork/crescent_moon/09.png",
+      "sha256": "cd8d40945bf257460b27e3129c4bb589cafa5b1544b6f79f8a64691917d386fe"
+    },
+    {
+      "scene": "crescent_moon",
+      "path": "artwork/crescent_moon/10.png",
+      "sha256": "5eefb9157afeb4ee694c707c4b019dd0c049b2806aee6b57a37dc93a71328c49"
+    },
+    {
+      "scene": "crescent_moon",
+      "path": "artwork/crescent_moon/11.png",
+      "sha256": "07b2f6532a92db114e73b48b49da6239cc9aa817a7c6c645e15cf45cd882d066"
+    },
+    {
+      "scene": "crescent_moon",
+      "path": "artwork/crescent_moon/12.png",
+      "sha256": "46bdaf57da17a4d71b4b03b943f8ea4c7628dc3ebd372b80f21b33da0bf3a8c9"
+    },
+    {
+      "scene": "crescent_moon",
+      "path": "artwork/crescent_moon/13.png",
+      "sha256": "b65700853fb5b3d472df50ac81afea900f3072d4beb8772d814eed6864f18f44"
+    },
+    {
+      "scene": "crescent_moon",
+      "path": "artwork/crescent_moon/14.png",
+      "sha256": "3cb0e3b1c2006f26434be63cba84d7a28e0f4cbb553947f65a06592e56ad9dc1"
+    },
+    {
+      "scene": "crescent_moon",
+      "path": "artwork/crescent_moon/15.png",
+      "sha256": "1ab9a4fe2da825bba7315d01b1a40dfd41f4c9d9658e97f9d93c94b7da1cb376"
+    },
+    {
+      "scene": "bombolini",
+      "path": "artwork/bombolini/01.png",
+      "sha256": "b8066695b33b22b450eaee51800ddb219d5c95795e3c8a3bccc064014a4fc5ba"
+    },
+    {
+      "scene": "bombolini",
+      "path": "artwork/bombolini/02.png",
+      "sha256": "b4e3240ddbad576ef884011c48add36fe6320bada3e240cd2085548b72e2e3d7"
+    },
+    {
+      "scene": "bombolini",
+      "path": "artwork/bombolini/03.png",
+      "sha256": "7704c30496ba2279df9f3c45a39e0cbc214d95b0d7d76082c622fd3b32f021dc"
+    },
+    {
+      "scene": "bombolini",
+      "path": "artwork/bombolini/04.png",
+      "sha256": "e8d0800dd5a02a3576f46a4cc6a74a6c1ff011da8016648411a2a365fdb5164e"
+    },
+    {
+      "scene": "bombolini",
+      "path": "artwork/bombolini/05.png",
+      "sha256": "5cd87214833f738614a26aa9dbfeed0fc778f6dc060746ffe04eedb838728fcd"
+    },
+    {
+      "scene": "bombolini",
+      "path": "artwork/bombolini/06.png",
+      "sha256": "a7ddf409d678516bbca5a012382151881e894c94347673b79a1860db28d33db7"
+    },
+    {
+      "scene": "bombolini",
+      "path": "artwork/bombolini/07.png",
+      "sha256": "ad3f4aced1e2fe5a8e87ac3d1a4ecc4eb125d5944999690bcee58651d87b2565"
+    },
+    {
+      "scene": "bombolini",
+      "path": "artwork/bombolini/08.png",
+      "sha256": "d6d3c82e4c51e2de083dab9081c91f48fbe5ceb7a1d5e597423f892dc8a7767f"
+    },
+    {
+      "scene": "bombolini",
+      "path": "artwork/bombolini/09.png",
+      "sha256": "8872f0d41ffede92796ef6c597d2adddda2af0e7139eae72900b5f581f0ddb4b"
+    },
+    {
+      "scene": "bombolini",
+      "path": "artwork/bombolini/10.png",
+      "sha256": "939eb760afab0459b2f3f1e6c48427d2cdecfb401aba3240cfb5226a95e1c4aa"
+    },
+    {
+      "scene": "bombolini",
+      "path": "artwork/bombolini/11.png",
+      "sha256": "771808a0568a987fd82e16174f43bd1fbfc19b652fde1b327c7928e149b448ad"
+    },
+    {
+      "scene": "bombolini",
+      "path": "artwork/bombolini/12.png",
+      "sha256": "03f991718e8a3aa45d9bed03bfd0e55068a7b4e338642320b8a464e88d2cdf03"
+    },
+    {
+      "scene": "bombolini",
+      "path": "artwork/bombolini/13.png",
+      "sha256": "42910023d59da703a17779fb97079b7b263395db7115d5e22ca1a2cbc2d14e6d"
+    },
+    {
+      "scene": "bombolini",
+      "path": "artwork/bombolini/14.png",
+      "sha256": "402566f034d7fd172bbee37b3bc6c38a51e96779fdfb0985d26f83932c627f37"
+    },
+    {
+      "scene": "bombolini",
+      "path": "artwork/bombolini/15.png",
+      "sha256": "ff59ceded3c4e9fcf89866567296a912d4eb128e1d657034743a6c4dd1f387e6"
+    }
+  ],
+  "raw_features": [
+    {
+      "total_spikes": 480433.6666666667,
+      "active_neurons": 9995.4,
+      "mean_firing_rate": 3.4653572708016265,
+      "firing_rate_variance": 286.66954744938835,
+      "temporal_burstiness": 0.25213351076254653,
+      "synchrony": 614.5958757348158,
+      "response_latency": 0.0,
+      "early_response_strength": 357424.0,
+      "late_response_strength": 501972.5333333333,
+      "persistent_activity": 1.003964786363539,
+      "trial_variance": 0.0018461481877549593,
+      "entropy": 0.7496497993849932,
+      "left_right_balance": -0.013715851932531069,
+      "recurrent_fraction": 0.9115863603168937,
+      "burst_phase": 0.4666666666666666,
+      "population_0": 62072.46666666667,
+      "population_1": 59265.8,
+      "population_2": 61831.26666666667,
+      "population_3": 63877.73333333333,
+      "population_4": 61931.066666666666,
+      "population_5": 67333.2,
+      "population_6": 61595.26666666667
+    },
+    {
+      "total_spikes": 460517.13333333336,
+      "active_neurons": 9907.4,
+      "mean_firing_rate": 3.3216997622121722,
+      "firing_rate_variance": 268.2197789543374,
+      "temporal_burstiness": 0.2788883843292028,
+      "synchrony": 722.7230473572939,
+      "response_latency": 0.0,
+      "early_response_strength": 309138.6666666667,
+      "late_response_strength": 498314.6666666667,
+      "persistent_activity": 1.0482727417634545,
+      "trial_variance": 0.005644830378824082,
+      "entropy": 0.7486400589590144,
+      "left_right_balance": -0.08616675769563319,
+      "recurrent_fraction": 0.9229012878279116,
+      "burst_phase": 0.5714285714285714,
+      "population_0": 60244.73333333333,
+      "population_1": 57503.6,
+      "population_2": 59952.0,
+      "population_3": 62016.46666666667,
+      "population_4": 60133.13333333333,
+      "population_5": 65365.8,
+      "population_6": 59773.666666666664
+    },
+    {
+      "total_spikes": 463938.86666666664,
+      "active_neurons": 10084.4,
+      "mean_firing_rate": 3.3463806480619933,
+      "firing_rate_variance": 264.46340442057414,
+      "temporal_burstiness": 0.2999689120074681,
+      "synchrony": 853.9058096640149,
+      "response_latency": 0.0,
+      "early_response_strength": 295783.4666666667,
+      "late_response_strength": 506217.06666666665,
+      "persistent_activity": 1.0481232231441653,
+      "trial_variance": 0.006516826532360843,
+      "entropy": 0.750547177043846,
+      "left_right_balance": -0.006635604200561766,
+      "recurrent_fraction": 0.8922992140344161,
+      "burst_phase": 0.6911564625850339,
+      "population_0": 58644.066666666666,
+      "population_1": 56090.26666666667,
+      "population_2": 58367.73333333333,
+      "population_3": 60372.2,
+      "population_4": 58602.13333333333,
+      "population_5": 63639.53333333333,
+      "population_6": 58260.8
+    },
+    {
+      "total_spikes": 460711.26666666666,
+      "active_neurons": 9876.866666666667,
+      "mean_firing_rate": 3.323100041594837,
+      "firing_rate_variance": 267.79679045120025,
+      "temporal_burstiness": 0.2799593435607207,
+      "synchrony": 728.71146104065,
+      "response_latency": 0.0,
+      "early_response_strength": 310340.0,
+      "late_response_strength": 497989.6,
+      "persistent_activity": 1.0463779103475532,
+      "trial_variance": 0.0049584096135537525,
+      "entropy": 0.7487161647011183,
+      "left_right_balance": 0.029979634973271295,
+      "recurrent_fraction": 0.9204763763358221,
+      "burst_phase": 0.5333333333333333,
+      "population_0": 60136.13333333333,
+      "population_1": 57381.73333333333,
+      "population_2": 59835.73333333333,
+      "population_3": 61867.86666666667,
+      "population_4": 60006.13333333333,
+      "population_5": 65262.2,
+      "population_6": 59662.333333333336
+    },
+    {
+      "total_spikes": 477538.5333333333,
+      "active_neurons": 9988.066666666668,
+      "mean_firing_rate": 3.44447473895032,
+      "firing_rate_variance": 283.3862547949866,
+      "temporal_burstiness": 0.26161784751889433,
+      "synchrony": 663.0380579980658,
+      "response_latency": 0.0,
+      "early_response_strength": 343850.4,
+      "late_response_strength": 502215.2,
+      "persistent_activity": 1.0113250469926445,
+      "trial_variance": 0.0009243419355091392,
+      "entropy": 0.7496137025688662,
+      "left_right_balance": -0.0016409787942738012,
+      "recurrent_fraction": 0.9118334562174331,
+      "burst_phase": 0.5496598639455783,
+      "population_0": 61773.6,
+      "population_1": 58954.53333333333,
+      "population_2": 61474.0,
+      "population_3": 63497.666666666664,
+      "population_4": 61556.4,
+      "population_5": 66907.66666666667,
+      "population_6": 61220.26666666667
+    },
+    {
+      "total_spikes": 443814.6666666667,
+      "active_neurons": 9897.866666666667,
+      "mean_firing_rate": 3.201225244459832,
+      "firing_rate_variance": 249.20929752423137,
+      "temporal_burstiness": 0.3088028706359952,
+      "synchrony": 850.7351059125939,
+      "response_latency": 0.0,
+      "early_response_strength": 275896.26666666666,
+      "late_response_strength": 499459.4666666667,
+      "persistent_activity": 1.0965407759170789,
+      "trial_variance": 0.015817197585194495,
+      "entropy": 0.7489158258993861,
+      "left_right_balance": -0.055755001427454286,
+      "recurrent_fraction": 0.9163484673461731,
+      "burst_phase": 0.6408163265306122,
+      "population_0": 57668.0,
+      "population_1": 55090.13333333333,
+      "population_2": 57364.4,
+      "population_3": 59393.933333333334,
+      "population_4": 57565.4,
+      "population_5": 62575.86666666667,
+      "population_6": 57254.0
+    },
+    {
+      "total_spikes": 448742.5333333333,
+      "active_neurons": 9930.0,
+      "mean_firing_rate": 3.236769836289452,
+      "firing_rate_variance": 253.02063975127055,
+      "temporal_burstiness": 0.31779273296689087,
+      "synchrony": 926.1339226997211,
+      "response_latency": 0.0,
+      "early_response_strength": 278132.26666666666,
+      "late_response_strength": 500579.4666666667,
+      "persistent_activity": 1.085181225041839,
+      "trial_variance": 0.008961526541325171,
+      "entropy": 0.7494744992305403,
+      "left_right_balance": -0.026806282665194716,
+      "recurrent_fraction": 0.9092043409925655,
+      "burst_phase": 0.5687074829931973,
+      "population_0": 57854.46666666667,
+      "population_1": 55348.2,
+      "population_2": 57582.46666666667,
+      "population_3": 59544.6,
+      "population_4": 57801.46666666667,
+      "population_5": 62788.0,
+      "population_6": 57446.26666666667
+    }
+  ],
+  "normalized_features": [
+    {
+      "total_spikes": 1.0,
+      "active_neurons": 0.5711532283970436,
+      "mean_firing_rate": 1.0,
+      "firing_rate_variance": 1.0,
+      "temporal_burstiness": 0.0,
+      "synchrony": 0.0,
+      "response_latency": 0.5,
+      "early_response_strength": 1.0,
+      "late_response_strength": 0.48410203221728987,
+      "persistent_activity": 0.0,
+      "trial_variance": 0.061895869665888774,
+      "entropy": 0.5294587860132242,
+      "left_right_balance": 0.6237895478134741,
+      "recurrent_fraction": 0.630256185009823,
+      "burst_phase": 0.0,
+      "population_0": 1.0,
+      "population_1": 1.0,
+      "population_2": 1.0,
+      "population_3": 1.0,
+      "population_4": 1.0,
+      "population_5": 1.0,
+      "population_6": 1.0
+    },
+    {
+      "total_spikes": 0.45611476737941165,
+      "active_neurons": 0.1471249598458059,
+      "mean_firing_rate": 0.4561147673794118,
+      "firing_rate_variance": 0.5074841056343107,
+      "temporal_burstiness": 0.4074808179023183,
+      "synchrony": 0.347075333738157,
+      "response_latency": 0.5,
+      "early_response_strength": 0.40774345907650267,
+      "late_response_strength": 0.03950993420413441,
+      "persistent_activity": 0.4786117395406365,
+      "trial_variance": 0.3169632845675687,
+      "entropy": 0.0,
+      "left_right_balance": 0.0,
+      "recurrent_fraction": 1.0,
+      "burst_phase": 0.4666666666666668,
+      "population_0": 0.5850273207501467,
+      "population_1": 0.5779835555200761,
+      "population_2": 0.5792874945897939,
+      "population_3": 0.5848907920365171,
+      "population_4": 0.5881652286783229,
+      "population_5": 0.5864489910313909,
+      "population_6": 0.5803989619005195
+    },
+    {
+      "total_spikes": 0.5495562412955011,
+      "active_neurons": 1.0,
+      "mean_firing_rate": 0.549556241295503,
+      "firing_rate_variance": 0.40720782500969505,
+      "temporal_burstiness": 0.7285404797523867,
+      "synchrony": 0.768156365685111,
+      "response_latency": 0.5,
+      "early_response_strength": 0.24393171730519525,
+      "late_response_strength": 1.0,
+      "persistent_activity": 0.47699664884584275,
+      "trial_variance": 0.37551459091526596,
+      "entropy": 1.0,
+      "left_right_balance": 0.6847492347161296,
+      "recurrent_fraction": 0.0,
+      "burst_phase": 1.0,
+      "population_0": 0.22160836726353525,
+      "population_1": 0.2395146483595444,
+      "population_2": 0.22461680820261662,
+      "population_3": 0.2181780335132396,
+      "population_4": 0.23747423073986346,
+      "population_5": 0.2235846412556051,
+      "population_6": 0.23191388074141236
+    },
+    {
+      "total_spikes": 0.46141620470247624,
+      "active_neurons": 0.0,
+      "mean_firing_rate": 0.4614162047024756,
+      "firing_rate_variance": 0.49619244303242566,
+      "temporal_burstiness": 0.4237916908545574,
+      "synchrony": 0.36629742793081477,
+      "response_latency": 0.5,
+      "early_response_strength": 0.4224787311638739,
+      "late_response_strength": 0.0,
+      "persistent_activity": 0.4581438901010639,
+      "trial_variance": 0.2708726770026702,
+      "entropy": 0.03990615091390535,
+      "left_right_balance": 1.0,
+      "recurrent_fraction": 0.9207598965856727,
+      "burst_phase": 0.29696969696969716,
+      "population_0": 0.5603705329438292,
+      "population_1": 0.5487985950347241,
+      "population_2": 0.5532588093070446,
+      "population_3": 0.5517492603000439,
+      "population_4": 0.5590745972360078,
+      "population_5": 0.5646720852017932,
+      "population_6": 0.5547536049386509
+    },
+    {
+      "total_spikes": 0.9209390389324296,
+      "active_neurons": 0.535817539351113,
+      "mean_firing_rate": 0.9209390389324322,
+      "firing_rate_variance": 0.912352622821216,
+      "temporal_burstiness": 0.1444478998979106,
+      "synchrony": 0.15549363146873377,
+      "response_latency": 0.5,
+      "early_response_strength": 0.8335094152010444,
+      "late_response_strength": 0.513596732894698,
+      "persistent_activity": 0.07950507107297786,
+      "trial_variance": 0.0,
+      "entropy": 0.5105313706559165,
+      "left_right_balance": 0.7277520804482912,
+      "recurrent_fraction": 0.6383306672232446,
+      "burst_phase": 0.3696969696969703,
+      "population_0": 0.9321446410462102,
+      "population_1": 0.9254570128522385,
+      "population_2": 0.9200185066340306,
+      "population_3": 0.9152355888606392,
+      "population_4": 0.9141788195770029,
+      "population_5": 0.9105521300448446,
+      "population_6": 0.9136196808919057
+    },
+    {
+      "total_spikes": 0.0,
+      "active_neurons": 0.10118856408609082,
+      "mean_firing_rate": 0.0,
+      "firing_rate_variance": 0.0,
+      "temporal_burstiness": 0.8630830212560628,
+      "synchrony": 0.7579787845443454,
+      "response_latency": 0.5,
+      "early_response_strength": 0.0,
+      "late_response_strength": 0.17865361553171852,
+      "persistent_activity": 1.0,
+      "trial_variance": 1.0,
+      "entropy": 0.1445987757994726,
+      "left_right_balance": 0.2618398692318659,
+      "recurrent_fraction": 0.785870051619467,
+      "burst_phase": 0.7757575757575756,
+      "population_0": 0.0,
+      "population_1": 0.0,
+      "population_2": 0.0,
+      "population_3": 0.0,
+      "population_4": 0.0,
+      "population_5": 0.0,
+      "population_6": 0.0
+    },
+    {
+      "total_spikes": 0.13457130633459788,
+      "active_neurons": 0.2560231288146483,
+      "mean_firing_rate": 0.1345713063345998,
+      "firing_rate_variance": 0.10174364118376089,
+      "temporal_burstiness": 1.0,
+      "synchrony": 1.0,
+      "response_latency": 0.5,
+      "early_response_strength": 0.027426250044974468,
+      "late_response_strength": 0.31478300327359116,
+      "persistent_activity": 0.8772948479403466,
+      "trial_variance": 0.5396671259608855,
+      "entropy": 0.43753990807527726,
+      "left_right_balance": 0.511083243021209,
+      "recurrent_fraction": 0.5524176914357555,
+      "burst_phase": 0.45454545454545486,
+      "population_0": 0.04233581061649548,
+      "population_1": 0.06180250658577442,
+      "population_2": 0.048818709610017226,
+      "population_3": 0.033602450302570225,
+      "population_4": 0.05407345193555757,
+      "population_5": 0.04459080717488753,
+      "population_6": 0.04428814938804418
+    }
+  ],
+  "temporal_profiles": [
+    [
+      {
+        "image_index": 1,
+        "spikes": 498384,
+        "population_activity": [
+          63848,
+          61053,
+          63596,
+          65818,
+          63796,
+          69297,
+          63442
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.3889340026576111,
+          0.9961981396722279,
+          0.9892034548944337,
+          0.9993909641222501,
+          1.0,
+          0.9904953491805699,
+          0.998523549387273,
+          0.9999446331020228,
+          0.9419939465524878,
+          0.8933079875978148
+        ]
+      },
+      {
+        "image_index": 2,
+        "spikes": 479285,
+        "population_activity": [
+          62308,
+          59475,
+          62145,
+          64073,
+          62253,
+          67562,
+          61867
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.21977050413844995,
+          0.9684725357411588,
+          0.9981753197893153,
+          0.9874153498871332,
+          1.0,
+          0.9903686982693755,
+          0.9929834462001504,
+          0.9995297215951844,
+          0.9592362678705794,
+          0.8999435665914222
+        ]
+      },
+      {
+        "image_index": 3,
+        "spikes": 496436,
+        "population_activity": [
+          63536,
+          60871,
+          63407,
+          65437,
+          63436,
+          69015,
+          63118
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.3692386888018679,
+          0.9801445038883679,
+          0.9941720441968636,
+          0.9963598257128675,
+          1.0,
+          0.9904031768793778,
+          0.9976835254536429,
+          0.9884176272682147,
+          0.9343297850826393,
+          0.8760869964885187
+        ]
+      },
+      {
+        "image_index": 4,
+        "spikes": 487643,
+        "population_activity": [
+          63397,
+          60469,
+          63147,
+          65199,
+          63212,
+          68721,
+          62936
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.3513129082367914,
+          0.9692126293724617,
+          1.0,
+          0.9879096404708877,
+          0.9956579513765417,
+          0.9923826991821227,
+          0.9941606932305216,
+          0.9835301603937789,
+          0.9457618236604218,
+          0.906664670322472
+        ]
+      },
+      {
+        "image_index": 5,
+        "spikes": 490051,
+        "population_activity": [
+          63187,
+          60372,
+          62885,
+          64996,
+          63118,
+          68596,
+          62719
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.2901028943667185,
+          0.9683729365608114,
+          0.989025834628766,
+          0.9992782589384854,
+          0.9947997631208824,
+          0.9956140350877193,
+          0.9983714560663262,
+          1.0,
+          0.9431675179509956,
+          0.8902398401065956
+        ]
+      },
+      {
+        "image_index": 6,
+        "spikes": 438059,
+        "population_activity": [
+          56007,
+          53338,
+          55770,
+          57563,
+          55762,
+          60694,
+          55500
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          2,
+          4,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.32622418107795165,
+          0.5487431367422403,
+          0.5565681843648452,
+          0.9336831882867067,
+          0.9883651439883465,
+          1.0,
+          0.9907182609345236,
+          0.9915026332499159,
+          0.950379113285773,
+          0.8948007320808277
+        ]
+      },
+      {
+        "image_index": 7,
+        "spikes": 478582,
+        "population_activity": [
+          62515,
+          59668,
+          62294,
+          64412,
+          62386,
+          67851,
+          62123
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.2613988112193547,
+          0.9804591807668205,
+          0.9960310678136691,
+          0.9940940769858904,
+          0.9987466529937903,
+          0.9970945137583319,
+          1.0,
+          0.9990884749045748,
+          0.9465808313868475,
+          0.9148293738962001
+        ]
+      },
+      {
+        "image_index": 8,
+        "spikes": 466021,
+        "population_activity": [
+          60279,
+          57544,
+          59928,
+          62113,
+          60208,
+          65402,
+          59933
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          6,
+          2,
+          1
+        ],
+        "burst_profile": [
+          0.11826060856188797,
+          0.8188196450680973,
+          0.9904138370915094,
+          0.994484673395115,
+          0.9923460773646494,
+          0.9960980002251154,
+          1.0,
+          0.98510486624395,
+          0.9431396090496379,
+          0.9037068997861404
+        ]
+      },
+      {
+        "image_index": 9,
+        "spikes": 497845,
+        "population_activity": [
+          63479,
+          60687,
+          63244,
+          65273,
+          63435,
+          68933,
+          63010
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.37340485911496,
+          0.9728116589465204,
+          1.0,
+          0.9850418352587927,
+          0.9890697376370859,
+          0.9922920595397207,
+          0.997894505574983,
+          0.9904245775279664,
+          0.9347662901188232,
+          0.8791629286512019
+        ]
+      },
+      {
+        "image_index": 10,
+        "spikes": 481188,
+        "population_activity": [
+          63111,
+          60225,
+          62889,
+          64919,
+          62914,
+          68410,
+          62553
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.3394230586626659,
+          0.9721974286419659,
+          0.9912832102094689,
+          0.9928214672313272,
+          1.0,
+          0.9979679814649525,
+          0.9913401826917598,
+          0.9887004576789411,
+          0.9513455001234403,
+          0.9130789828512829
+        ]
+      },
+      {
+        "image_index": 11,
+        "spikes": 450393,
+        "population_activity": [
+          59433,
+          56701,
+          59150,
+          61069,
+          59098,
+          64362,
+          58890
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          2,
+          4,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.18213922422893117,
+          0.6013665240005374,
+          0.9908450569065121,
+          0.9851640020728173,
+          0.9983686160105943,
+          0.9986948928084756,
+          0.9981191102239795,
+          1.0,
+          0.9682935723470817,
+          0.9212905206993839
+        ]
+      },
+      {
+        "image_index": 12,
+        "spikes": 496672,
+        "population_activity": [
+          63221,
+          60428,
+          62919,
+          65164,
+          63175,
+          68698,
+          62776
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.33062064194294244,
+          0.9486955413548892,
+          0.9907331549147049,
+          0.9878019917344839,
+          0.9843792670271451,
+          0.9905146831248748,
+          0.9939738197971854,
+          1.0,
+          0.933111220347006,
+          0.8825714129663007
+        ]
+      },
+      {
+        "image_index": 13,
+        "spikes": 479243,
+        "population_activity": [
+          61681,
+          58870,
+          61398,
+          63516,
+          61459,
+          66885,
+          61127
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.2328858935453242,
+          0.864744102917357,
+          0.9878800290432483,
+          0.9979148437063653,
+          0.998603689981941,
+          0.998268575577607,
+          0.9966302384897511,
+          1.0,
+          0.9436263102042336,
+          0.9017370096624653
+        ]
+      },
+      {
+        "image_index": 14,
+        "spikes": 483632,
+        "population_activity": [
+          62311,
+          59504,
+          62182,
+          64049,
+          62137,
+          67593,
+          61746
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          2,
+          4,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.2128209899516189,
+          0.9571827316710085,
+          1.0,
+          0.9949944175660588,
+          0.9879233345738742,
+          0.9960178637886118,
+          0.9961109043542985,
+          0.9966877558615557,
+          0.9533308522515817,
+          0.9044101228135467
+        ]
+      },
+      {
+        "image_index": 15,
+        "spikes": 483071,
+        "population_activity": [
+          62774,
+          59782,
+          62515,
+          64565,
+          62577,
+          67979,
+          62189
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.28834665073556864,
+          0.9406130983496378,
+          0.9876596221342693,
+          0.9921402434470913,
+          1.0,
+          0.990235979389142,
+          0.9874542603240982,
+          0.9955753864535882,
+          0.9388955268463893,
+          0.8976551415129564
+        ]
+      }
+    ],
+    [
+      {
+        "image_index": 1,
+        "spikes": 444961,
+        "population_activity": [
+          58824,
+          56085,
+          58492,
+          60507,
+          58649,
+          63788,
+          58417
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.286867558090247,
+          0.5320026203229162,
+          0.8951100150283227,
+          0.9939116026357366,
+          0.99389233555547,
+          1.0,
+          0.9866671804554737,
+          0.9992871180301337,
+          0.9574775538514894,
+          0.9278833185619051
+        ]
+      },
+      {
+        "image_index": 2,
+        "spikes": 464864,
+        "population_activity": [
+          60624,
+          57840,
+          60295,
+          62402,
+          60478,
+          65704,
+          60027
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.1363303750680151,
+          0.7999136912021314,
+          0.9796236185901646,
+          0.9860967784303056,
+          0.9878041916055312,
+          1.0,
+          0.9872975964876072,
+          0.9909188134416571,
+          0.9579713679944463,
+          0.896185526389853
+        ]
+      },
+      {
+        "image_index": 3,
+        "spikes": 455572,
+        "population_activity": [
+          60190,
+          57417,
+          59970,
+          61893,
+          60065,
+          65382,
+          59643
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.2889195719710045,
+          0.6210255820197139,
+          0.9878993594906609,
+          0.9854063590687685,
+          1.0,
+          0.9889157365857401,
+          0.985444712921413,
+          0.9983699612626088,
+          0.9510796609519426,
+          0.9294097342078012
+        ]
+      },
+      {
+        "image_index": 4,
+        "spikes": 402920,
+        "population_activity": [
+          52392,
+          50051,
+          52141,
+          53837,
+          52291,
+          56784,
+          51892
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.3025467993442373,
+          0.5432536505394792,
+          0.5346181707270579,
+          0.5370391551336308,
+          0.8990239810896337,
+          0.9908498227153151,
+          1.0,
+          0.9998856227839414,
+          0.9548400625262115,
+          0.9187540508597354
+        ]
+      },
+      {
+        "image_index": 5,
+        "spikes": 470497,
+        "population_activity": [
+          61893,
+          58994,
+          61657,
+          63650,
+          61824,
+          67178,
+          61452
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.1818424974208093,
+          0.9487791830652249,
+          0.992166902296435,
+          0.9989874288334416,
+          0.9946314623056054,
+          1.0,
+          0.9925872148561384,
+          0.9985098009246877,
+          0.9560009170455848,
+          0.9253945206526307
+        ]
+      },
+      {
+        "image_index": 6,
+        "spikes": 458870,
+        "population_activity": [
+          60281,
+          57611,
+          59940,
+          62232,
+          60376,
+          65487,
+          59868
+        ],
+        "population_rank": [
+          5,
+          3,
+          4,
+          0,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.12510998049041736,
+          0.8225393060709231,
+          0.9843923338816418,
+          1.0,
+          0.9895757622126162,
+          0.99386021957844,
+          0.9934011705749589,
+          0.9928464863624192,
+          0.9537890669829004,
+          0.921311349986611
+        ]
+      },
+      {
+        "image_index": 7,
+        "spikes": 471930,
+        "population_activity": [
+          60489,
+          57639,
+          60161,
+          62101,
+          60231,
+          65513,
+          59934
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.15772366783677866,
+          0.7884883267398451,
+          0.9940380007800746,
+          0.9959510410282127,
+          0.9942794524618785,
+          0.9951709663639234,
+          0.9929236084025185,
+          1.0,
+          0.9413643877342546,
+          0.9053137943203136
+        ]
+      },
+      {
+        "image_index": 8,
+        "spikes": 439717,
+        "population_activity": [
+          57744,
+          55079,
+          57589,
+          59358,
+          57530,
+          62572,
+          57212
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          2,
+          4,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.1614547405533839,
+          0.5289913390051353,
+          0.8822143021384227,
+          0.9881581972867326,
+          0.9943856825323829,
+          0.9979880432283283,
+          1.0,
+          0.992220433816203,
+          0.9542423545642676,
+          0.9259791522955468
+        ]
+      },
+      {
+        "image_index": 9,
+        "spikes": 480136,
+        "population_activity": [
+          63229,
+          60407,
+          62997,
+          65165,
+          63169,
+          68689,
+          62885
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.347739019319894,
+          0.9826445177655293,
+          0.9881563137718612,
+          0.988690328609845,
+          0.9905403085842885,
+          1.0,
+          0.9882707455228578,
+          0.9944309881181699,
+          0.9539412202239048,
+          0.922720424160357
+        ]
+      },
+      {
+        "image_index": 10,
+        "spikes": 475334,
+        "population_activity": [
+          62647,
+          59906,
+          62260,
+          64570,
+          62528,
+          67966,
+          62221
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.3354652048119385,
+          0.9087863560225369,
+          0.9865806304248516,
+          0.9885982945028171,
+          1.0,
+          0.9797662555200244,
+          0.9919674128216842,
+          0.9973922643520633,
+          0.9426298157453936,
+          0.9165905283995737
+        ]
+      },
+      {
+        "image_index": 11,
+        "spikes": 472859,
+        "population_activity": [
+          60583,
+          57947,
+          60271,
+          62488,
+          60491,
+          65773,
+          60209
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.12465220836174015,
+          0.8185771406460172,
+          0.9929612500230326,
+          0.9789758803043983,
+          1.0,
+          0.9923716165171086,
+          0.9913581839288017,
+          0.9834349836929484,
+          0.9462696467726779,
+          0.8843212765565404
+        ]
+      },
+      {
+        "image_index": 12,
+        "spikes": 490545,
+        "population_activity": [
+          64545,
+          61555,
+          64174,
+          66411,
+          64511,
+          70067,
+          64051
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.5266078136023032,
+          0.9867103933494766,
+          0.9937270005910729,
+          0.9937079337235686,
+          0.9892081529925448,
+          0.992430453600778,
+          0.9998093313249566,
+          1.0,
+          0.953648445096955,
+          0.9173069956336873
+        ]
+      },
+      {
+        "image_index": 13,
+        "spikes": 473010,
+        "population_activity": [
+          61591,
+          58857,
+          61307,
+          63434,
+          61481,
+          66873,
+          61104
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.24367798751626468,
+          0.8474231081106565,
+          0.9974919383733429,
+          0.99596447226989,
+          1.0,
+          0.9927586792132607,
+          0.9960210450885365,
+          0.9950593071715477,
+          0.95032906522846,
+          0.901110713006091
+        ]
+      },
+      {
+        "image_index": 14,
+        "spikes": 478512,
+        "population_activity": [
+          62207,
+          59382,
+          61851,
+          63997,
+          61998,
+          67373,
+          61664
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.20378056989006058,
+          0.9522847954528457,
+          0.9915862687906664,
+          0.991343205444619,
+          0.9908570787525242,
+          0.9843317627701743,
+          0.9887442973599582,
+          1.0,
+          0.9428427193179268,
+          0.9010545209782365
+        ]
+      },
+      {
+        "image_index": 15,
+        "spikes": 428030,
+        "population_activity": [
+          56432,
+          53784,
+          56175,
+          58202,
+          56375,
+          61338,
+          56026
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.2126090389170245,
+          0.5207871983978741,
+          0.6698503783867055,
+          0.9821493905374439,
+          0.9906799406905317,
+          0.990699197011419,
+          1.0,
+          0.9893897671910805,
+          0.9591188307561958,
+          0.9269992875161271
+        ]
+      }
+    ],
+    [
+      {
+        "image_index": 1,
+        "spikes": 473401,
+        "population_activity": [
+          59081,
+          56625,
+          58846,
+          60839,
+          59131,
+          64139,
+          58811
+        ],
+        "population_rank": [
+          5,
+          3,
+          4,
+          0,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.32784606776050973,
+          0.5684915434739445,
+          0.8927456183101388,
+          0.9878522048338477,
+          0.9897113770509558,
+          0.9872745979314452,
+          1.0,
+          0.9989891879207956,
+          0.9298929622208986,
+          0.8621866031299074
+        ]
+      },
+      {
+        "image_index": 2,
+        "spikes": 465683,
+        "population_activity": [
+          58791,
+          56072,
+          58424,
+          60393,
+          58623,
+          63781,
+          58185
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.17123287671232876,
+          0.5671780821917808,
+          0.9624474885844749,
+          0.9908675799086758,
+          0.9979908675799086,
+          0.9968584474885844,
+          1.0,
+          0.9926575342465753,
+          0.94337899543379,
+          0.883013698630137
+        ]
+      },
+      {
+        "image_index": 3,
+        "spikes": 496467,
+        "population_activity": [
+          62440,
+          60058,
+          62242,
+          64446,
+          62631,
+          67899,
+          62264
+        ],
+        "population_rank": [
+          5,
+          3,
+          4,
+          0,
+          6,
+          2,
+          1
+        ],
+        "burst_profile": [
+          0.26065279770444766,
+          0.9347560975609757,
+          0.9895265423242467,
+          0.9783895265423243,
+          0.9871592539454807,
+          0.9868185078909613,
+          0.9808823529411764,
+          1.0,
+          0.9246413199426112,
+          0.8608142037302726
+        ]
+      },
+      {
+        "image_index": 4,
+        "spikes": 401324,
+        "population_activity": [
+          51736,
+          49245,
+          51305,
+          53130,
+          51467,
+          56022,
+          51323
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          6,
+          2,
+          1
+        ],
+        "burst_profile": [
+          0.3014952527147649,
+          0.5446964959160081,
+          0.5492068906703053,
+          0.5362063410843899,
+          0.8212708700513579,
+          1.0,
+          0.9893873064604772,
+          0.9953758978149222,
+          0.9518449030644153,
+          0.9161028673223796
+        ]
+      },
+      {
+        "image_index": 5,
+        "spikes": 488913,
+        "population_activity": [
+          61952,
+          59209,
+          61608,
+          63685,
+          61816,
+          67244,
+          61523
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.2101791799494339,
+          0.9416657506137555,
+          0.9991022681470082,
+          0.9957861566084057,
+          0.9967571726942949,
+          1.0,
+          0.9989556996812136,
+          0.9968487779854165,
+          0.9377084020373017,
+          0.8804001319116193
+        ]
+      },
+      {
+        "image_index": 6,
+        "spikes": 484347,
+        "population_activity": [
+          61695,
+          58745,
+          61386,
+          63263,
+          61373,
+          66743,
+          61133
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          2,
+          4,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.18786873156342182,
+          0.9377949852507375,
+          0.9848082595870207,
+          1.0,
+          0.9909660766961652,
+          0.998396017699115,
+          0.9988384955752212,
+          0.9990228613569322,
+          0.9460361356932153,
+          0.8859697640117994
+        ]
+      },
+      {
+        "image_index": 7,
+        "spikes": 473790,
+        "population_activity": [
+          59104,
+          56673,
+          58871,
+          60807,
+          59266,
+          64131,
+          58733
+        ],
+        "population_rank": [
+          5,
+          3,
+          4,
+          0,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.1734486905638025,
+          0.6136849096228751,
+          0.9711367593473461,
+          0.9813322324137065,
+          0.9951356105616485,
+          0.9891403852022043,
+          0.9941842724058085,
+          1.0,
+          0.9300676706575003,
+          0.8562940891385902
+        ]
+      },
+      {
+        "image_index": 8,
+        "spikes": 332022,
+        "population_activity": [
+          41703,
+          39939,
+          41492,
+          43132,
+          41632,
+          45275,
+          41458
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.0863083413738956,
+          0.09864350984732391,
+          0.10250297973778308,
+          0.48322833304954876,
+          0.6773180468055319,
+          1.0,
+          0.9880810488676997,
+          0.9911459220160055,
+          0.9509052727169532,
+          0.903380819948162
+        ]
+      },
+      {
+        "image_index": 9,
+        "spikes": 496690,
+        "population_activity": [
+          63375,
+          60568,
+          63068,
+          65224,
+          63324,
+          68844,
+          62933
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.3643197653098643,
+          0.9758709204253758,
+          0.987972130546388,
+          0.9805830583058306,
+          0.9962046204620462,
+          0.992940960762743,
+          0.9877887788778877,
+          1.0,
+          0.9352218555188853,
+          0.885991932526586
+        ]
+      },
+      {
+        "image_index": 10,
+        "spikes": 476127,
+        "population_activity": [
+          60667,
+          57816,
+          60328,
+          62401,
+          60588,
+          65747,
+          60215
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.3112122268498982,
+          0.6505513457974791,
+          0.9762581876226997,
+          0.9919637451149478,
+          1.0,
+          0.9929545162651597,
+          0.9920371355705191,
+          0.9946791919710841,
+          0.9419114544153533,
+          0.8842265563363485
+        ]
+      },
+      {
+        "image_index": 11,
+        "spikes": 456333,
+        "population_activity": [
+          57731,
+          55144,
+          57397,
+          59373,
+          57594,
+          62546,
+          57267
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.11204651333406698,
+          0.4844466453908514,
+          0.9787058435127105,
+          0.9924617585561791,
+          1.0,
+          0.9943692454422068,
+          0.9993947397380873,
+          0.9921316165951359,
+          0.9356956824767984,
+          0.8804519276622281
+        ]
+      },
+      {
+        "image_index": 12,
+        "spikes": 514685,
+        "population_activity": [
+          65058,
+          62412,
+          64850,
+          67048,
+          65197,
+          70707,
+          64730
+        ],
+        "population_rank": [
+          5,
+          3,
+          4,
+          0,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.5437778861612385,
+          0.9892700373922939,
+          0.9872649433696418,
+          0.9968568796401669,
+          0.9940931013927274,
+          0.9888726313697863,
+          0.9899384020665113,
+          1.0,
+          0.9408948861070467,
+          0.8662548095160678
+        ]
+      },
+      {
+        "image_index": 13,
+        "spikes": 488889,
+        "population_activity": [
+          61848,
+          59159,
+          61566,
+          63791,
+          61926,
+          67249,
+          61444
+        ],
+        "population_rank": [
+          5,
+          3,
+          4,
+          0,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.2532151261423959,
+          0.867710100512596,
+          0.9946368959667269,
+          0.98958390339116,
+          0.9983764753096555,
+          1.0,
+          0.9954577792371259,
+          0.999762855944107,
+          0.9399478283077035,
+          0.8795490614567941
+        ]
+      },
+      {
+        "image_index": 14,
+        "spikes": 457505,
+        "population_activity": [
+          57373,
+          55080,
+          57268,
+          59283,
+          57498,
+          62299,
+          57208
+        ],
+        "population_rank": [
+          5,
+          3,
+          4,
+          0,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.182447826483186,
+          0.5455208238403354,
+          0.843233391050761,
+          0.9849266381117288,
+          1.0,
+          0.98534584890185,
+          0.9948236580698077,
+          0.9874054497402716,
+          0.9374282329353869,
+          0.8776086758406999
+        ]
+      },
+      {
+        "image_index": 15,
+        "spikes": 452907,
+        "population_activity": [
+          57107,
+          54609,
+          56865,
+          58768,
+          56966,
+          61967,
+          56685
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.26178020048291506,
+          0.5529743176995683,
+          0.6836540572181167,
+          0.9910368039803907,
+          0.9931769956830321,
+          0.9957196165947172,
+          0.9956830321211678,
+          1.0,
+          0.9324101851174361,
+          0.8782468720275115
+        ]
+      }
+    ],
+    [
+      {
+        "image_index": 1,
+        "spikes": 454638,
+        "population_activity": [
+          59907,
+          57151,
+          59576,
+          61542,
+          59737,
+          65045,
+          59395
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.2913357193439109,
+          0.6047579857987713,
+          0.9810522689429463,
+          0.9830044594154912,
+          1.0,
+          0.9892820915232827,
+          0.9821814771574575,
+          0.9910237516507493,
+          0.9510995425749775,
+          0.9276349786598787
+        ]
+      },
+      {
+        "image_index": 2,
+        "spikes": 472135,
+        "population_activity": [
+          61845,
+          58959,
+          61501,
+          63631,
+          61738,
+          67108,
+          61393
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.19899891517423823,
+          0.9606607921131264,
+          0.9802828159792931,
+          1.0,
+          0.9960603696020403,
+          0.9940810383876063,
+          0.994766191500295,
+          0.9924633157604248,
+          0.9517728336790819,
+          0.9166016405610643
+        ]
+      },
+      {
+        "image_index": 3,
+        "spikes": 464219,
+        "population_activity": [
+          59726,
+          57197,
+          59473,
+          61480,
+          59596,
+          64903,
+          59352
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.31156126667040757,
+          0.5920169088902606,
+          0.9600471354020538,
+          0.9971756167816995,
+          0.9855226979406319,
+          0.998559751603913,
+          0.9956792548117389,
+          1.0,
+          0.9470287862633971,
+          0.8954042982997588
+        ]
+      },
+      {
+        "image_index": 4,
+        "spikes": 402744,
+        "population_activity": [
+          51864,
+          49525,
+          51610,
+          53422,
+          51848,
+          56196,
+          51421
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.3001192752607963,
+          0.5452204699066624,
+          0.5427403017853424,
+          0.5360571006645336,
+          0.8608076639088207,
+          0.991196349798368,
+          0.9957969670005112,
+          1.0,
+          0.9478975368712016,
+          0.9051477687953199
+        ]
+      },
+      {
+        "image_index": 5,
+        "spikes": 469172,
+        "population_activity": [
+          61768,
+          58896,
+          61391,
+          63622,
+          61579,
+          67069,
+          61299
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.18362996097839535,
+          0.9530788997810983,
+          0.9935281241077377,
+          0.9805653373941182,
+          0.9849053012277529,
+          0.9853050347387456,
+          0.9805463024650233,
+          1.0,
+          0.9484534120110403,
+          0.9206433806034072
+        ]
+      },
+      {
+        "image_index": 6,
+        "spikes": 459511,
+        "population_activity": [
+          60773,
+          57955,
+          60489,
+          62538,
+          60597,
+          65902,
+          60372
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.10771353029083802,
+          0.8795647009234778,
+          0.987757213472813,
+          0.9932559298003601,
+          0.987910487795532,
+          1.0,
+          0.983388895275319,
+          0.9857071694064452,
+          0.9603402689964363,
+          0.9182664674100471
+        ]
+      },
+      {
+        "image_index": 7,
+        "spikes": 450646,
+        "population_activity": [
+          58669,
+          56055,
+          58210,
+          60255,
+          58527,
+          63650,
+          58180
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.13229859571322986,
+          0.5906342979513711,
+          0.9746621941743893,
+          0.9910929179221862,
+          0.9949779218071901,
+          0.9919836261299676,
+          1.0,
+          0.9952621903841417,
+          0.9562226391494684,
+          0.9131654253605473
+        ]
+      },
+      {
+        "image_index": 8,
+        "spikes": 435193,
+        "population_activity": [
+          56432,
+          53813,
+          56200,
+          58134,
+          56372,
+          61159,
+          56058
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.08893965353131544,
+          0.47921187892632783,
+          0.8798781648581763,
+          0.9958499904816296,
+          0.9946126023224824,
+          0.9841043213401865,
+          1.0,
+          0.9947077860270321,
+          0.9545212259661146,
+          0.9128307633733105
+        ]
+      },
+      {
+        "image_index": 9,
+        "spikes": 482590,
+        "population_activity": [
+          63041,
+          60185,
+          62746,
+          64712,
+          62927,
+          68448,
+          62538
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.34903404562189244,
+          0.9767335939575663,
+          0.9988613504383801,
+          0.989847041408889,
+          0.9968687137055452,
+          0.9917827456636429,
+          1.0,
+          0.9942687972065131,
+          0.9426120620943561,
+          0.9183398489391582
+        ]
+      },
+      {
+        "image_index": 10,
+        "spikes": 471133,
+        "population_activity": [
+          61162,
+          58242,
+          60680,
+          62786,
+          60895,
+          66244,
+          60499
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.2991143089154533,
+          0.760787868487149,
+          0.9921439767340849,
+          0.9971672993031556,
+          0.9944101372915605,
+          0.9928238249013276,
+          1.0,
+          0.9989613430778237,
+          0.9583970690990123,
+          0.9033860215662947
+        ]
+      },
+      {
+        "image_index": 11,
+        "spikes": 460180,
+        "population_activity": [
+          59405,
+          56630,
+          59211,
+          61156,
+          59304,
+          64456,
+          58962
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.1812383935773105,
+          0.6570126240363152,
+          0.989176717750558,
+          0.9869070173135001,
+          0.9904147361707715,
+          0.992853257301495,
+          0.9850687475380315,
+          1.0,
+          0.9488285719645101,
+          0.9004895800116298
+        ]
+      },
+      {
+        "image_index": 12,
+        "spikes": 490840,
+        "population_activity": [
+          64824,
+          61838,
+          64506,
+          66729,
+          64615,
+          70469,
+          64206
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.5325017166399634,
+          0.991607537956817,
+          0.9950408178835737,
+          0.9977302204928664,
+          0.9907873655298696,
+          0.9922560463874266,
+          0.9904440375371939,
+          1.0,
+          0.9587052719920653,
+          0.9130998702983139
+        ]
+      },
+      {
+        "image_index": 13,
+        "spikes": 466182,
+        "population_activity": [
+          61017,
+          58194,
+          60724,
+          62788,
+          60905,
+          66241,
+          60506
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.13695594023462876,
+          0.9046008636172571,
+          0.9951660361496427,
+          0.9997707210821964,
+          0.9982995146929573,
+          1.0,
+          0.9977645305514158,
+          0.9981848752340555,
+          0.9596086973136153,
+          0.9167908594138102
+        ]
+      },
+      {
+        "image_index": 14,
+        "spikes": 472597,
+        "population_activity": [
+          61650,
+          58953,
+          61484,
+          63566,
+          61701,
+          67012,
+          61257
+        ],
+        "population_rank": [
+          5,
+          3,
+          4,
+          0,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.20443405904479653,
+          0.9603708347581595,
+          0.9903871727649227,
+          1.0,
+          0.989323302557088,
+          0.9833960256848664,
+          0.9935977810707094,
+          0.9925719062274403,
+          0.9547855161670277,
+          0.9093810555112276
+        ]
+      },
+      {
+        "image_index": 15,
+        "spikes": 458889,
+        "population_activity": [
+          59959,
+          57133,
+          59735,
+          61657,
+          59751,
+          65031,
+          59497
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.23397101008757765,
+          0.6499743536161401,
+          0.9890765402078306,
+          0.9911282509166207,
+          0.9962195330458405,
+          0.9955736241189992,
+          1.0,
+          0.9943198009080719,
+          0.9517088090579229,
+          0.9156898877258307
+        ]
+      }
+    ],
+    [
+      {
+        "image_index": 1,
+        "spikes": 495154,
+        "population_activity": [
+          63729,
+          60905,
+          63340,
+          65527,
+          63539,
+          69012,
+          63175
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.3837013143503328,
+          0.9833898744971544,
+          0.9964777635652448,
+          1.0,
+          0.9964406873922473,
+          0.9888586100142743,
+          0.9857998257419869,
+          0.9985725673395992,
+          0.9500213187994735,
+          0.8959457204827318
+        ]
+      },
+      {
+        "image_index": 2,
+        "spikes": 485630,
+        "population_activity": [
+          62739,
+          59878,
+          62328,
+          64504,
+          62496,
+          67897,
+          62161
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.24256441694997122,
+          0.9716695461554181,
+          0.992457597205967,
+          0.9903026249791005,
+          1.0,
+          0.9916959259878504,
+          0.9964145720708169,
+          0.9898196139627339,
+          0.9504170614352858,
+          0.8963755596425719
+        ]
+      },
+      {
+        "image_index": 3,
+        "spikes": 477112,
+        "population_activity": [
+          62256,
+          59316,
+          62008,
+          64090,
+          62027,
+          67497,
+          61757
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.30527231796598625,
+          0.8824842511492405,
+          0.9879873630843155,
+          0.9959138116948223,
+          1.0,
+          0.9927545827736894,
+          0.9960651520024214,
+          0.9905412307750515,
+          0.9584003329486768,
+          0.9163655625130058
+        ]
+      },
+      {
+        "image_index": 4,
+        "spikes": 489013,
+        "population_activity": [
+          63300,
+          60245,
+          63062,
+          64868,
+          62924,
+          68466,
+          62606
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          2,
+          4,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.3669452632364464,
+          0.9627066154247976,
+          0.9883772993545017,
+          0.9933584567740009,
+          0.9926122159620909,
+          1.0,
+          0.9947203462557367,
+          0.99776127756427,
+          0.9311592851013022,
+          0.8953956941905152
+        ]
+      },
+      {
+        "image_index": 5,
+        "spikes": 485468,
+        "population_activity": [
+          63017,
+          60028,
+          62600,
+          64736,
+          62821,
+          68270,
+          62433
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.28932704672096016,
+          0.96321213589519,
+          0.993589146275555,
+          0.9865632978624276,
+          0.9890791852252185,
+          1.0,
+          0.9908309882778286,
+          0.9901600849810842,
+          0.9421159544531207,
+          0.9024022065263981
+        ]
+      },
+      {
+        "image_index": 6,
+        "spikes": 491214,
+        "population_activity": [
+          63291,
+          60390,
+          62876,
+          65055,
+          62954,
+          68436,
+          62693
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.3267728892417333,
+          0.9755737311448776,
+          0.9804109816664512,
+          0.9954396913021805,
+          0.984786662481768,
+          0.9939995938186585,
+          0.9830142348097409,
+          1.0,
+          0.9341063087347451,
+          0.8950759743736499
+        ]
+      },
+      {
+        "image_index": 7,
+        "spikes": 471936,
+        "population_activity": [
+          60544,
+          58033,
+          60347,
+          62325,
+          60428,
+          65632,
+          60117
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.15001393145723044,
+          0.7886690814525866,
+          1.0,
+          0.9941116374106065,
+          0.9996284944738553,
+          0.9983282251323489,
+          0.995894863936101,
+          0.9998328225132349,
+          0.9495495495495495,
+          0.890312993405777
+        ]
+      },
+      {
+        "image_index": 8,
+        "spikes": 426436,
+        "population_activity": [
+          55806,
+          53227,
+          55595,
+          57300,
+          55588,
+          60359,
+          55276
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          2,
+          4,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.07833378000689153,
+          0.36220758834564876,
+          0.8779241165435124,
+          0.9966116620084996,
+          0.9901987059228914,
+          0.9944676289291321,
+          1.0,
+          0.9897009839580382,
+          0.955339025230675,
+          0.918545886136529
+        ]
+      },
+      {
+        "image_index": 9,
+        "spikes": 487626,
+        "population_activity": [
+          63627,
+          60807,
+          63475,
+          65406,
+          63385,
+          68891,
+          63093
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          2,
+          4,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.3585720995772663,
+          0.9802912165335839,
+          1.0,
+          0.9936308125880695,
+          0.9930295913574448,
+          0.9957914513856271,
+          0.9937999060591827,
+          0.9972757162987318,
+          0.9412118365429779,
+          0.9079943635509629
+        ]
+      },
+      {
+        "image_index": 10,
+        "spikes": 491774,
+        "population_activity": [
+          62829,
+          59910,
+          62410,
+          64595,
+          62678,
+          68108,
+          62227
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.3265174660433614,
+          0.938013030514963,
+          0.9915706555747782,
+          0.996963227445062,
+          1.0,
+          0.9918099164427431,
+          0.9914234181175691,
+          0.9894541171273972,
+          0.9448963816394891,
+          0.8802959472889903
+        ]
+      },
+      {
+        "image_index": 11,
+        "spikes": 456649,
+        "population_activity": [
+          59640,
+          56981,
+          59412,
+          61403,
+          59568,
+          64768,
+          59206
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.18039823761889454,
+          0.6377663899551841,
+          0.9885974698863529,
+          0.9891269406047312,
+          0.9955751375678384,
+          0.9902237013785148,
+          0.9920957585613525,
+          1.0,
+          0.9558648336894654,
+          0.9054327477639317
+        ]
+      },
+      {
+        "image_index": 12,
+        "spikes": 487512,
+        "population_activity": [
+          63204,
+          60237,
+          62935,
+          64951,
+          63071,
+          68498,
+          62561
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.32217620060450014,
+          0.9519011903429232,
+          0.9939923131460129,
+          0.9870144408373447,
+          0.9928355535654315,
+          0.9979476846150975,
+          1.0,
+          0.9950371282510542,
+          0.9566774879659689,
+          0.8981305272584797
+        ]
+      },
+      {
+        "image_index": 13,
+        "spikes": 478616,
+        "population_activity": [
+          62224,
+          59325,
+          61828,
+          63938,
+          61974,
+          67332,
+          61668
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.1939083063444222,
+          0.9566617369002377,
+          0.992081172660389,
+          0.997491435310856,
+          0.9830952692962914,
+          1.0,
+          0.9913323473800475,
+          0.9891233128030402,
+          0.9477694366961829,
+          0.9085309920062902
+        ]
+      },
+      {
+        "image_index": 14,
+        "spikes": 468157,
+        "population_activity": [
+          60095,
+          57308,
+          59830,
+          61725,
+          59761,
+          65100,
+          59531
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          2,
+          4,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.16550216709012106,
+          0.7534934987296368,
+          0.9995890001494545,
+          0.993125093409057,
+          0.9938163204304289,
+          1.0,
+          0.9953295471528919,
+          0.9968614556867433,
+          0.955219698101928,
+          0.8930839934240024
+        ]
+      },
+      {
+        "image_index": 15,
+        "spikes": 470781,
+        "population_activity": [
+          60303,
+          57728,
+          60064,
+          62042,
+          60132,
+          65349,
+          59800
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.2512737850406685,
+          0.669723750764271,
+          0.992496248124062,
+          0.9892353584199507,
+          1.0,
+          0.9948122209252774,
+          0.9891056639430826,
+          0.9993885831804791,
+          0.9402108461638227,
+          0.8962814740703685
+        ]
+      }
+    ],
+    [
+      {
+        "image_index": 1,
+        "spikes": 455693,
+        "population_activity": [
+          58787,
+          56282,
+          58478,
+          60576,
+          58800,
+          63865,
+          58408
+        ],
+        "population_rank": [
+          5,
+          3,
+          4,
+          0,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.30520029297425205,
+          0.5420962683343663,
+          0.8820403027400605,
+          0.9976900107048284,
+          0.9878490806993822,
+          0.9937649069431141,
+          0.9954175822112044,
+          1.0,
+          0.9485041410783707,
+          0.9055345841080249
+        ]
+      },
+      {
+        "image_index": 2,
+        "spikes": 440872,
+        "population_activity": [
+          57147,
+          54435,
+          56804,
+          58744,
+          56920,
+          61927,
+          56761
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.11636012350122175,
+          0.5137234103006081,
+          0.8798514954634137,
+          0.9969314113613548,
+          1.0,
+          0.9876877616350652,
+          0.9921012255412649,
+          0.9971018885079461,
+          0.9513382456007425,
+          0.9158600572045537
+        ]
+      },
+      {
+        "image_index": 3,
+        "spikes": 455042,
+        "population_activity": [
+          58960,
+          56428,
+          58563,
+          60548,
+          58946,
+          64086,
+          58459
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.19051561911930748,
+          0.5770417764395935,
+          0.9666353029732782,
+          0.9934888972525404,
+          0.9911742566804667,
+          1.0,
+          0.9920398946179902,
+          0.9909296198720361,
+          0.9464621753857734,
+          0.9147911178020324
+        ]
+      },
+      {
+        "image_index": 4,
+        "spikes": 456812,
+        "population_activity": [
+          60098,
+          57412,
+          59804,
+          61911,
+          59914,
+          65221,
+          59795
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.2956828464074841,
+          0.6306456560079748,
+          0.9840311325818573,
+          0.9830917874396136,
+          1.0,
+          0.9995207422743655,
+          0.9954182961429339,
+          0.9844528793804156,
+          0.9616210413311863,
+          0.922762824936738
+        ]
+      },
+      {
+        "image_index": 5,
+        "spikes": 473096,
+        "population_activity": [
+          61758,
+          58964,
+          61457,
+          63613,
+          61672,
+          67058,
+          61302
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.18881780671537268,
+          0.9532498012643373,
+          0.9925616080554188,
+          1.0,
+          0.979066510201764,
+          0.99634704924859,
+          0.9989400764659121,
+          0.9941325661505849,
+          0.9505432108112201,
+          0.9007268047090888
+        ]
+      },
+      {
+        "image_index": 6,
+        "spikes": 391322,
+        "population_activity": [
+          50715,
+          48480,
+          50510,
+          52325,
+          50693,
+          55042,
+          50352
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.10789287286789058,
+          0.504948599651588,
+          0.5340276049543428,
+          0.5468920496965752,
+          0.9333231234565538,
+          1.0,
+          0.9934337729961521,
+          0.9917874303654498,
+          0.9519689109252063,
+          0.9270057621992075
+        ]
+      },
+      {
+        "image_index": 7,
+        "spikes": 472663,
+        "population_activity": [
+          62235,
+          59379,
+          61847,
+          64175,
+          62164,
+          67568,
+          61849
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          6,
+          2,
+          1
+        ],
+        "burst_profile": [
+          0.23781315090481742,
+          0.9569471250310524,
+          0.9952418260686782,
+          0.9968087749135311,
+          0.9936366589593166,
+          0.9874835183734306,
+          0.987693718828228,
+          1.0,
+          0.9538323364736008,
+          0.9227226691635932
+        ]
+      },
+      {
+        "image_index": 8,
+        "spikes": 432105,
+        "population_activity": [
+          55754,
+          53262,
+          55448,
+          57392,
+          55584,
+          60352,
+          55279
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.08795836999045355,
+          0.3279860734140726,
+          0.8701682795799562,
+          0.9889186305523838,
+          0.9795780843456938,
+          1.0,
+          0.996424760870786,
+          0.9919323137974281,
+          0.9411115062800667,
+          0.9042921588080041
+        ]
+      },
+      {
+        "image_index": 9,
+        "spikes": 478135,
+        "population_activity": [
+          63070,
+          60302,
+          62744,
+          64962,
+          62945,
+          68467,
+          62610
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.34330304076076534,
+          0.9836266728018712,
+          0.9892442194869435,
+          0.9930403773150811,
+          0.9954561141148051,
+          0.9915640937152498,
+          0.9898960849725833,
+          1.0,
+          0.9577054334905479,
+          0.9232140802944898
+        ]
+      },
+      {
+        "image_index": 10,
+        "spikes": 477114,
+        "population_activity": [
+          61293,
+          58712,
+          60991,
+          63197,
+          61299,
+          66553,
+          60913
+        ],
+        "population_rank": [
+          5,
+          3,
+          4,
+          0,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.302632556067132,
+          0.7563493242239715,
+          0.983903906133967,
+          0.9936692410515372,
+          1.0,
+          0.9871899598990049,
+          0.9886380513886827,
+          0.9957485519085103,
+          0.950226496361206,
+          0.8993947720184168
+        ]
+      },
+      {
+        "image_index": 11,
+        "spikes": 343409,
+        "population_activity": [
+          43953,
+          41966,
+          43728,
+          45273,
+          43852,
+          47649,
+          43575
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.07893277230563259,
+          0.39462560963947596,
+          0.5290236205412642,
+          0.5362341015587645,
+          0.5380510662713972,
+          0.618781677345319,
+          0.9880845366739983,
+          1.0,
+          0.9637372095247203,
+          0.9205508271970928
+        ]
+      },
+      {
+        "image_index": 12,
+        "spikes": 479487,
+        "population_activity": [
+          62944,
+          60085,
+          62601,
+          64888,
+          62846,
+          68326,
+          62481
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.31555665719678916,
+          0.9604743836635079,
+          0.9942990066162031,
+          1.0,
+          0.998760653612218,
+          0.9998093313249566,
+          0.9975022403569318,
+          0.9958434228840544,
+          0.9589871679981696,
+          0.9210822353995463
+        ]
+      },
+      {
+        "image_index": 13,
+        "spikes": 470938,
+        "population_activity": [
+          60636,
+          57887,
+          60405,
+          62565,
+          60507,
+          65800,
+          60279
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.15006191601936283,
+          0.8403504821944539,
+          0.9973544973544973,
+          1.0,
+          0.9987804420428534,
+          0.9987804420428534,
+          0.9922886412248114,
+          0.9925513152463508,
+          0.9592855266614132,
+          0.90648804833202
+        ]
+      },
+      {
+        "image_index": 14,
+        "spikes": 373211,
+        "population_activity": [
+          47877,
+          45711,
+          47616,
+          49289,
+          47797,
+          51964,
+          47463
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.14362451902929635,
+          0.5222865632976494,
+          0.5428397272277039,
+          0.539620556973599,
+          0.5500209531791688,
+          0.9392548287553811,
+          0.9960760409920378,
+          1.0,
+          0.9580555449731418,
+          0.9172730389729132
+        ]
+      },
+      {
+        "image_index": 15,
+        "spikes": 457321,
+        "population_activity": [
+          59793,
+          57047,
+          59470,
+          61451,
+          59542,
+          64760,
+          59284
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.235781430273685,
+          0.6275273779576706,
+          0.9790055039624747,
+          0.9832611450511622,
+          1.0,
+          0.9767358287151747,
+          0.993436855743224,
+          0.9950067144559399,
+          0.9502751981237352,
+          0.9087212271377504
+        ]
+      }
+    ],
+    [
+      {
+        "image_index": 1,
+        "spikes": 460291,
+        "population_activity": [
+          59013,
+          56522,
+          58618,
+          60707,
+          59077,
+          64050,
+          58602
+        ],
+        "population_rank": [
+          5,
+          3,
+          4,
+          0,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.3136156158384978,
+          0.5540876535421383,
+          0.8819163543251568,
+          0.9922625895275912,
+          0.9788102571714847,
+          1.0,
+          0.9922625895275912,
+          0.9929491223512822,
+          0.9443722863398523,
+          0.890395962444799
+        ]
+      },
+      {
+        "image_index": 2,
+        "spikes": 374176,
+        "population_activity": [
+          47595,
+          45527,
+          47215,
+          48847,
+          47445,
+          51503,
+          47202
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.11164331692540705,
+          0.4927678909503976,
+          0.5436577054146157,
+          0.5442635365391897,
+          0.5728890571753124,
+          0.9584627035213934,
+          1.0,
+          0.9971223021582734,
+          0.9500378644452859,
+          0.9131389625141991
+        ]
+      },
+      {
+        "image_index": 3,
+        "spikes": 473160,
+        "population_activity": [
+          61274,
+          58672,
+          61026,
+          63128,
+          61175,
+          66564,
+          60994
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.19198770798980663,
+          0.8899527806925498,
+          0.9842602308499475,
+          0.9972830160395743,
+          1.0,
+          0.9819367411182731,
+          0.9767088892220057,
+          0.999100584619997,
+          0.9447046919502323,
+          0.9000524658971668
+        ]
+      },
+      {
+        "image_index": 4,
+        "spikes": 470005,
+        "population_activity": [
+          61171,
+          58621,
+          60889,
+          63028,
+          60950,
+          66452,
+          60730
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.30185676392572947,
+          0.7709549071618037,
+          0.9935202728306176,
+          0.9968927624100038,
+          0.9995263357332322,
+          0.9958128078817734,
+          1.0,
+          0.9941455096627511,
+          0.9533535430087154,
+          0.8989200454717696
+        ]
+      },
+      {
+        "image_index": 5,
+        "spikes": 482862,
+        "population_activity": [
+          62358,
+          59762,
+          62108,
+          64261,
+          62521,
+          67698,
+          61991
+        ],
+        "population_rank": [
+          5,
+          3,
+          4,
+          0,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.2372385878120081,
+          0.9656322614496664,
+          0.9986132973540215,
+          0.9920545686230418,
+          0.9977138145566299,
+          0.9970766809084777,
+          1.0,
+          0.9984633835544562,
+          0.9543325088074357,
+          0.9073345326437299
+        ]
+      },
+      {
+        "image_index": 6,
+        "spikes": 479635,
+        "population_activity": [
+          61823,
+          59128,
+          61483,
+          63544,
+          61619,
+          67051,
+          61309
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.21393424289868038,
+          0.9131439648102587,
+          0.9905315738462686,
+          0.9975956161932453,
+          0.9920226645791397,
+          1.0,
+          0.9928241258480579,
+          0.9967568776560054,
+          0.9456683814210095,
+          0.8972638485051816
+        ]
+      },
+      {
+        "image_index": 7,
+        "spikes": 449980,
+        "population_activity": [
+          58138,
+          55665,
+          58031,
+          59895,
+          58218,
+          63309,
+          57806
+        ],
+        "population_rank": [
+          5,
+          3,
+          4,
+          0,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.12590982134417242,
+          0.5807543246053503,
+          0.9710558653937045,
+          0.9984686643350033,
+          0.9939124680971736,
+          0.9943283864259381,
+          0.9875035447584838,
+          1.0,
+          0.9443614708384536,
+          0.9107477077228472
+        ]
+      },
+      {
+        "image_index": 8,
+        "spikes": 341919,
+        "population_activity": [
+          43073,
+          41295,
+          42894,
+          44322,
+          43146,
+          46643,
+          42678
+        ],
+        "population_rank": [
+          5,
+          3,
+          4,
+          0,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.08915835871436409,
+          0.09570382701802842,
+          0.43090369081175156,
+          0.5475870679707157,
+          0.5403038156675053,
+          0.9059987514424623,
+          0.9924519021584911,
+          1.0,
+          0.9567166720266359,
+          0.9094417434403436
+        ]
+      },
+      {
+        "image_index": 9,
+        "spikes": 480291,
+        "population_activity": [
+          63052,
+          60317,
+          62784,
+          65015,
+          63045,
+          68406,
+          62786
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          6,
+          2,
+          1
+        ],
+        "burst_profile": [
+          0.3374534821903243,
+          0.9763613579403053,
+          0.9863864205969469,
+          0.9925001898686109,
+          0.9814498367129946,
+          0.997095010252905,
+          0.9921584263689527,
+          1.0,
+          0.94315333789018,
+          0.9126604389762285
+        ]
+      },
+      {
+        "image_index": 10,
+        "spikes": 484634,
+        "population_activity": [
+          63041,
+          60182,
+          62700,
+          64895,
+          62872,
+          68408,
+          62471
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.3460686392310003,
+          0.9323370381495945,
+          0.9914951937518774,
+          0.9888104535896666,
+          1.0,
+          0.9886978071492941,
+          0.9989861820366477,
+          0.9954565935716432,
+          0.9437143286272154,
+          0.9131495944728146
+        ]
+      },
+      {
+        "image_index": 11,
+        "spikes": 440990,
+        "population_activity": [
+          56836,
+          54318,
+          56544,
+          58509,
+          56704,
+          61649,
+          56389
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.18156305176098875,
+          0.5321066815351733,
+          0.7060124523743146,
+          0.9801877148963851,
+          0.9893876033825852,
+          0.9832729300250906,
+          1.0,
+          0.987008642319487,
+          0.9415295976210389,
+          0.8950097574574853
+        ]
+      },
+      {
+        "image_index": 12,
+        "spikes": 472695,
+        "population_activity": [
+          60771,
+          58061,
+          60528,
+          62475,
+          60670,
+          65916,
+          60249
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.13497663507903115,
+          0.8420121758233575,
+          0.9927950403068159,
+          0.9958110699458231,
+          1.0,
+          0.9966860908904734,
+          0.9969281179602704,
+          0.9954201031407667,
+          0.950924357231955,
+          0.8948299294398004
+        ]
+      },
+      {
+        "image_index": 13,
+        "spikes": 476495,
+        "population_activity": [
+          60905,
+          58089,
+          60575,
+          62509,
+          60866,
+          66031,
+          60520
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.16106220765349344,
+          0.8480350631652609,
+          0.9831313763765607,
+          1.0,
+          0.9903870943979964,
+          0.9866671577474126,
+          0.9962984788773894,
+          0.9860962763802438,
+          0.9390998489926706,
+          0.8841294979927075
+        ]
+      },
+      {
+        "image_index": 14,
+        "spikes": 474295,
+        "population_activity": [
+          61942,
+          59188,
+          61705,
+          63760,
+          61742,
+          67216,
+          61438
+        ],
+        "population_rank": [
+          5,
+          3,
+          0,
+          4,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.2007173900666148,
+          0.9587216033098631,
+          0.9970772997286064,
+          0.9920479778330266,
+          0.9940786851644493,
+          0.9947998709457023,
+          1.0,
+          0.9900931847943671,
+          0.957601867491602,
+          0.9163044922282743
+        ]
+      },
+      {
+        "image_index": 15,
+        "spikes": 369710,
+        "population_activity": [
+          46825,
+          44876,
+          46637,
+          48274,
+          46972,
+          50924,
+          46529
+        ],
+        "population_rank": [
+          5,
+          3,
+          4,
+          0,
+          2,
+          6,
+          1
+        ],
+        "burst_profile": [
+          0.0940713397868093,
+          0.0925835248031941,
+          0.22710836566349016,
+          0.7314588120079852,
+          0.991261441108893,
+          0.9893027985988173,
+          0.9952352254322197,
+          1.0,
+          0.9453463407284644,
+          0.8964179441786885
+        ]
+      }
+    ]
+  ],
+  "experiments": [
+    {
+      "scene": "sunrise",
+      "provenance": "sunrise/provenance.json",
+      "sha256": "81248c07d176ecbd08e1329fe71e728fac1903dd9fb6848afbe519bdf497c772"
+    },
+    {
+      "scene": "traffic",
+      "provenance": "traffic/provenance.json",
+      "sha256": "989167068958d122561cef430250120cb3781d9b15dd67fb1731f335b66c0acb"
+    },
+    {
+      "scene": "high_noon",
+      "provenance": "high_noon/provenance.json",
+      "sha256": "e57c804ba41d20d849d25d008c04b120ac390257f5eba16eb41cf4fb8f28e801"
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "provenance": "rainy_evening_drizzle/provenance.json",
+      "sha256": "fbabc23d73924565c597bb4d8f60d47f02ca2ce69f7e77fdbbc613717a6e9524"
+    },
+    {
+      "scene": "sunset",
+      "provenance": "sunset/provenance.json",
+      "sha256": "9ca82727b0d931699875bfc46138c2841a79f3a4bc410bc7b2c2b19d74a9b423"
+    },
+    {
+      "scene": "crescent_moon",
+      "provenance": "crescent_moon/provenance.json",
+      "sha256": "e22ed83338262ae9fa0e26ca63c1f72a8add84df8b079ff715c5c5cfe38f57de"
+    },
+    {
+      "scene": "bombolini",
+      "provenance": "bombolini/provenance.json",
+      "sha256": "8b3bd77b5e3ff5d65f9557a797e59a66166f4107c20c45a699af47c4ab85179e"
+    }
+  ],
+  "images_per_scene": 15,
+  "total_images": 105,
+  "simulation_duration_per_trial_seconds": 0.5,
+  "trials_per_image": 2,
+  "total_network_neurons": 138639,
+  "neural_driver_sha256": "ced5f1ac3c8d61cc9b0b9ba2fbb83fb68e8dff303abc2f1329c1c1041514f83e",
+  "image_generation": "Built-in image_gen; prompts in artwork/prompts.json",
+  "scientific_limitations": "Generated RGB images drive deterministic proxy sensory channels in the full existing fly-brain network. There is no measured UV or anatomical retina reconstruction. Each image uses two independent 0.5-second trials; responses are interpreted by a human-designed jazz composer, not claimed to be visual understanding or autonomous composition."
+}

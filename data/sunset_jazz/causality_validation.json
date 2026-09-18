@@ -1,7 +1,0 @@
-{
-  "deterministic_recomposition": true,
-  "neural_response_permutation_changes_midi": true,
-  "original_midi_sha256": "de4de2ad9378f6f66a882c99adeec6b708288a24e766348388f3d01db17734ee",
-  "permuted_neural_response_midi_sha256": "37da8a8f02f6127ec36804e995d8955a993ce3b16df9ac1e441f9c7cdd3c533c",
-  "method": "Same source filenames, seed, tempo and form; only recorded neural feature vectors were permuted. Temporary comparison MIDIs removed."
-}

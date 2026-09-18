@@ -36,3 +36,25 @@ data/sunset_jazz/*
 !data/sunset_jazz/final_report.txt
 !data/sunset_jazz/validate_cpu_adapter.py
 .DS_Store
+
+# Days album: local render intermediates and large lossless masters.
+albums/Days/work/
+albums/Days/audio/*.wav
+albums/Days/neural/weight_*.pkl
+
+# Scene album masters, caches, and renderer scratch space.
+albums/Days_v2/work/
+albums/Days_v2/audio/*.wav
+albums/Days_v2/neural/**/weight_*.pkl
+albums/Days_v2/*_run.log
+
+# Published audio is WAV-only, attached to the Days GitHub release.
+*.mp3
+*.mid
+*.midi
+albums/Days_v2/artwork/**/*.png
+albums/Days_v2/artwork/cover.png
+albums/Days_v2/midi/
+albums/Days_v2/index.html
+albums/Days_v2/Days.m3u
+albums/Days_v2/cleanup.json

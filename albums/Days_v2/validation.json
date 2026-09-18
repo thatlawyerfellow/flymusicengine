@@ -1,0 +1,1075 @@
+{
+  "passed": true,
+  "duration_seconds": 2040,
+  "duration_minutes": 34,
+  "total_images": 105,
+  "tracks": [
+    {
+      "title": "Sunrise",
+      "midi": {
+        "duration_seconds": 280.0001120000009,
+        "notes": 1562,
+        "notes_per_track": [
+          0,
+          520,
+          126,
+          160,
+          30,
+          88,
+          9,
+          629
+        ],
+        "markers": [
+          "First light",
+          "Open windows",
+          "Morning conversation",
+          "Reflections",
+          "A breath of air",
+          "Full daylight",
+          "The road ahead"
+        ],
+        "balanced_notes": true
+      },
+      "audio": {
+        "duration_seconds": 280.0,
+        "sample_rate": 48000,
+        "channels": 2,
+        "peak_dbfs": -1.197652517407645,
+        "rms_dbfs": -20.341825763540683,
+        "silent_frame_percent": 2.478251488095238,
+        "ten_second_rms": [
+          0.032887513819329126,
+          0.059658319755820546,
+          0.09186605247952166,
+          0.09717325672524733,
+          0.10691723548179796,
+          0.10790717107600999,
+          0.09680851511155804,
+          0.12103424454497168,
+          0.11647308474991125,
+          0.11611096341011568,
+          0.10222282520556894,
+          0.107964455878238,
+          0.11276227379312487,
+          0.10776253617359002,
+          0.09713118382475681,
+          0.10784879804123806,
+          0.11510024385780562,
+          0.09924709859655584,
+          0.07771709756582394,
+          0.04584850604782698,
+          0.066543676894198,
+          0.10818870283721342,
+          0.10815948308870367,
+          0.10857856951419967,
+          0.10794559236560182,
+          0.09574169111900169,
+          0.05406239293018861,
+          0.006151545275968967
+        ],
+        "true_stereo": true
+      },
+      "images": [
+        {
+          "image": 1,
+          "spikes": 498384,
+          "downstream_spikes": 450850
+        },
+        {
+          "image": 2,
+          "spikes": 479285,
+          "downstream_spikes": 439683
+        },
+        {
+          "image": 3,
+          "spikes": 496436,
+          "downstream_spikes": 448820
+        },
+        {
+          "image": 4,
+          "spikes": 487643,
+          "downstream_spikes": 447081
+        },
+        {
+          "image": 5,
+          "spikes": 490051,
+          "downstream_spikes": 445873
+        },
+        {
+          "image": 6,
+          "spikes": 438059,
+          "downstream_spikes": 394634
+        },
+        {
+          "image": 7,
+          "spikes": 478582,
+          "downstream_spikes": 441249
+        },
+        {
+          "image": 8,
+          "spikes": 466021,
+          "downstream_spikes": 425407
+        },
+        {
+          "image": 9,
+          "spikes": 497845,
+          "downstream_spikes": 448061
+        },
+        {
+          "image": 10,
+          "spikes": 481188,
+          "downstream_spikes": 445021
+        },
+        {
+          "image": 11,
+          "spikes": 450393,
+          "downstream_spikes": 418703
+        },
+        {
+          "image": 12,
+          "spikes": 496672,
+          "downstream_spikes": 446381
+        },
+        {
+          "image": 13,
+          "spikes": 479243,
+          "downstream_spikes": 434936
+        },
+        {
+          "image": 14,
+          "spikes": 483632,
+          "downstream_spikes": 439522
+        },
+        {
+          "image": 15,
+          "spikes": 483071,
+          "downstream_spikes": 442381
+        }
+      ],
+      "minute_rms": [
+        0.08717603829298785,
+        0.11043455224094982,
+        0.10684254569198173,
+        0.08922132467151302,
+        0.07710270126284062
+      ]
+    },
+    {
+      "title": "Traffic",
+      "midi": {
+        "duration_seconds": 240.00000000000105,
+        "notes": 1811,
+        "notes_per_track": [
+          0,
+          486,
+          88,
+          271,
+          37,
+          149,
+          6,
+          774
+        ],
+        "markers": [
+          "Ignition",
+          "Crosswalk theme",
+          "Lane changes",
+          "Signals",
+          "Under the bridge",
+          "Green light",
+          "Turn the corner"
+        ],
+        "balanced_notes": true
+      },
+      "audio": {
+        "duration_seconds": 240.0,
+        "sample_rate": 48000,
+        "channels": 2,
+        "peak_dbfs": -2.320881607210992,
+        "rms_dbfs": -19.306484275089378,
+        "silent_frame_percent": 2.402673611111111,
+        "ten_second_rms": [
+          0.03347249423260922,
+          0.08031299361045723,
+          0.09962158048626571,
+          0.09697169728648154,
+          0.09805680836254846,
+          0.09367043346153409,
+          0.10038009128850892,
+          0.1373481937420762,
+          0.1436925624584182,
+          0.12218915880764074,
+          0.1324629656815517,
+          0.10757074762590968,
+          0.1298268270078607,
+          0.14052173296539658,
+          0.09575885639631875,
+          0.0621547351441287,
+          0.0572395542129873,
+          0.08495264607296674,
+          0.1312136496838415,
+          0.14196231834597522,
+          0.1376615021622378,
+          0.12226977594369029,
+          0.10136089972370517,
+          0.03095080680988883
+        ],
+        "true_stereo": true
+      },
+      "images": [
+        {
+          "image": 1,
+          "spikes": 444961,
+          "downstream_spikes": 414762
+        },
+        {
+          "image": 2,
+          "spikes": 464864,
+          "downstream_spikes": 427370
+        },
+        {
+          "image": 3,
+          "spikes": 455572,
+          "downstream_spikes": 424560
+        },
+        {
+          "image": 4,
+          "spikes": 402920,
+          "downstream_spikes": 369388
+        },
+        {
+          "image": 5,
+          "spikes": 470497,
+          "downstream_spikes": 436648
+        },
+        {
+          "image": 6,
+          "spikes": 458870,
+          "downstream_spikes": 425795
+        },
+        {
+          "image": 7,
+          "spikes": 471930,
+          "downstream_spikes": 426068
+        },
+        {
+          "image": 8,
+          "spikes": 439717,
+          "downstream_spikes": 407084
+        },
+        {
+          "image": 9,
+          "spikes": 480136,
+          "downstream_spikes": 446541
+        },
+        {
+          "image": 10,
+          "spikes": 475334,
+          "downstream_spikes": 442098
+        },
+        {
+          "image": 11,
+          "spikes": 472859,
+          "downstream_spikes": 427762
+        },
+        {
+          "image": 12,
+          "spikes": 490545,
+          "downstream_spikes": 455314
+        },
+        {
+          "image": 13,
+          "spikes": 473010,
+          "downstream_spikes": 434647
+        },
+        {
+          "image": 14,
+          "spikes": 478512,
+          "downstream_spikes": 438472
+        },
+        {
+          "image": 15,
+          "spikes": 428030,
+          "downstream_spikes": 398332
+        }
+      ],
+      "minute_rms": [
+        0.08687907492327979,
+        0.12492420042385344,
+        0.10010631912038576,
+        0.11726245023833218
+      ]
+    },
+    {
+      "title": "High Noon",
+      "midi": {
+        "duration_seconds": 288.0000000000022,
+        "notes": 1968,
+        "notes_per_track": [
+          0,
+          632,
+          94,
+          271,
+          37,
+          151,
+          9,
+          774
+        ],
+        "markers": [
+          "Overhead sun",
+          "Short shadows",
+          "Hot pavement",
+          "Bright glass",
+          "Shade",
+          "The square awakens",
+          "After noon"
+        ],
+        "balanced_notes": true
+      },
+      "audio": {
+        "duration_seconds": 288.0,
+        "sample_rate": 48000,
+        "channels": 2,
+        "peak_dbfs": -1.2038814143304208,
+        "rms_dbfs": -19.67186700446285,
+        "silent_frame_percent": 1.6410083912037037,
+        "ten_second_rms": [
+          0.037389645401458754,
+          0.06380997055444353,
+          0.09605591735061626,
+          0.09815180142359595,
+          0.09799522410982377,
+          0.09679463209691641,
+          0.08933089280271099,
+          0.09538786156160042,
+          0.1173909157634459,
+          0.1410701565447958,
+          0.1396999386489084,
+          0.12622609334875842,
+          0.12554152207647512,
+          0.11611732222240861,
+          0.10832957728785751,
+          0.12377421247154524,
+          0.1280051153143348,
+          0.07823452314044903,
+          0.05745566505913693,
+          0.04872338642009372,
+          0.05675242529667866,
+          0.10314112032360245,
+          0.12964335909600302,
+          0.1333373992857023,
+          0.13839847659459775,
+          0.10355895030583454,
+          0.12482526650814678,
+          0.05174365188309181,
+          0.005956634063168156
+        ],
+        "true_stereo": true
+      },
+      "images": [
+        {
+          "image": 1,
+          "spikes": 473401,
+          "downstream_spikes": 417472
+        },
+        {
+          "image": 2,
+          "spikes": 465683,
+          "downstream_spikes": 414269
+        },
+        {
+          "image": 3,
+          "spikes": 496467,
+          "downstream_spikes": 441980
+        },
+        {
+          "image": 4,
+          "spikes": 401324,
+          "downstream_spikes": 364228
+        },
+        {
+          "image": 5,
+          "spikes": 488913,
+          "downstream_spikes": 437037
+        },
+        {
+          "image": 6,
+          "spikes": 484347,
+          "downstream_spikes": 434338
+        },
+        {
+          "image": 7,
+          "spikes": 473790,
+          "downstream_spikes": 417585
+        },
+        {
+          "image": 8,
+          "spikes": 332022,
+          "downstream_spikes": 294631
+        },
+        {
+          "image": 9,
+          "spikes": 496690,
+          "downstream_spikes": 447336
+        },
+        {
+          "image": 10,
+          "spikes": 476127,
+          "downstream_spikes": 427762
+        },
+        {
+          "image": 11,
+          "spikes": 456333,
+          "downstream_spikes": 407052
+        },
+        {
+          "image": 12,
+          "spikes": 514685,
+          "downstream_spikes": 460002
+        },
+        {
+          "image": 13,
+          "spikes": 488889,
+          "downstream_spikes": 436983
+        },
+        {
+          "image": 14,
+          "spikes": 457505,
+          "downstream_spikes": 406009
+        },
+        {
+          "image": 15,
+          "spikes": 452907,
+          "downstream_spikes": 402967
+        }
+      ],
+      "minute_rms": [
+        0.08495339708460083,
+        0.11986754371261665,
+        0.11460454428988079,
+        0.09497395512828982,
+        0.10017248912570564
+      ]
+    },
+    {
+      "title": "Rainy Evening Drizzle",
+      "midi": {
+        "duration_seconds": 319.99987199999975,
+        "notes": 1054,
+        "notes_per_track": [
+          0,
+          363,
+          113,
+          136,
+          24,
+          82,
+          4,
+          332
+        ],
+        "markers": [
+          "First drops",
+          "Window theme",
+          "Pavement reflections",
+          "Drifting umbrellas",
+          "Shelter",
+          "The rain returns",
+          "Last drops"
+        ],
+        "balanced_notes": true
+      },
+      "audio": {
+        "duration_seconds": 320.0,
+        "sample_rate": 48000,
+        "channels": 2,
+        "peak_dbfs": -1.2049816550547032,
+        "rms_dbfs": -20.1697477393764,
+        "silent_frame_percent": 3.6555598958333335,
+        "ten_second_rms": [
+          0.04449809754897582,
+          0.051983136833766756,
+          0.08610888430055942,
+          0.10738872692972068,
+          0.11529329353758283,
+          0.10291098562447167,
+          0.09149722139157979,
+          0.09751790233391183,
+          0.11887683274928802,
+          0.11870445196747233,
+          0.11380311702349474,
+          0.12825401432745942,
+          0.1264419725715624,
+          0.11611838217474542,
+          0.11077446722807988,
+          0.11705904587301881,
+          0.08958547559129032,
+          0.09278477791938321,
+          0.09908466183598727,
+          0.09120006166443373,
+          0.10085020744151131,
+          0.07133212739691534,
+          0.056408878743133016,
+          0.04934251144157962,
+          0.1251104037350108,
+          0.1140280516769721,
+          0.11251047571001699,
+          0.10117075011579535,
+          0.10606040626226056,
+          0.08360948829515012,
+          0.06111170658304335,
+          0.010175764391035211
+        ],
+        "true_stereo": true
+      },
+      "images": [
+        {
+          "image": 1,
+          "spikes": 454638,
+          "downstream_spikes": 422353
+        },
+        {
+          "image": 2,
+          "spikes": 472135,
+          "downstream_spikes": 436175
+        },
+        {
+          "image": 3,
+          "spikes": 464219,
+          "downstream_spikes": 421727
+        },
+        {
+          "image": 4,
+          "spikes": 402744,
+          "downstream_spikes": 365886
+        },
+        {
+          "image": 5,
+          "spikes": 469172,
+          "downstream_spikes": 435624
+        },
+        {
+          "image": 6,
+          "spikes": 459511,
+          "downstream_spikes": 428626
+        },
+        {
+          "image": 7,
+          "spikes": 450646,
+          "downstream_spikes": 413546
+        },
+        {
+          "image": 8,
+          "spikes": 435193,
+          "downstream_spikes": 398168
+        },
+        {
+          "image": 9,
+          "spikes": 482590,
+          "downstream_spikes": 444597
+        },
+        {
+          "image": 10,
+          "spikes": 471133,
+          "downstream_spikes": 430508
+        },
+        {
+          "image": 11,
+          "spikes": 460180,
+          "downstream_spikes": 419124
+        },
+        {
+          "image": 12,
+          "spikes": 490840,
+          "downstream_spikes": 457187
+        },
+        {
+          "image": 13,
+          "spikes": 466182,
+          "downstream_spikes": 430375
+        },
+        {
+          "image": 14,
+          "spikes": 472597,
+          "downstream_spikes": 435623
+        },
+        {
+          "image": 15,
+          "spikes": 458889,
+          "downstream_spikes": 422763
+        }
+      ],
+      "minute_rms": [
+        0.0889874713321797,
+        0.11217855760256924,
+        0.1096049165316817,
+        0.08063384652771857,
+        0.10784904096696396,
+        0.04380745862540901
+      ]
+    },
+    {
+      "title": "Sunset",
+      "midi": {
+        "duration_seconds": 311.9999999999998,
+        "notes": 1311,
+        "notes_per_track": [
+          0,
+          528,
+          132,
+          175,
+          25,
+          88,
+          6,
+          357
+        ],
+        "markers": [
+          "Low sun",
+          "Amber theme",
+          "Long shadows",
+          "Copper water",
+          "The horizon",
+          "Afterglow",
+          "Violet air"
+        ],
+        "balanced_notes": true
+      },
+      "audio": {
+        "duration_seconds": 312.0,
+        "sample_rate": 48000,
+        "channels": 2,
+        "peak_dbfs": -1.2099755258228164,
+        "rms_dbfs": -20.386048022987726,
+        "silent_frame_percent": 4.483607104700854,
+        "ten_second_rms": [
+          0.025648940771013443,
+          0.0506766282826309,
+          0.08239846824621323,
+          0.0982140821288833,
+          0.10339773140144587,
+          0.10751948203744544,
+          0.12009835959631661,
+          0.09746958712392123,
+          0.0946308620750027,
+          0.10142906155458188,
+          0.11757508433022217,
+          0.1023914099347829,
+          0.10984626097163551,
+          0.11269798353012142,
+          0.10088525685562727,
+          0.10980542246121484,
+          0.09868250916578615,
+          0.09552291767966112,
+          0.11438460923928745,
+          0.10609178153451017,
+          0.10480945181409958,
+          0.09854665415423389,
+          0.048889962745727926,
+          0.04963722422049651,
+          0.1157892702183414,
+          0.09782656575265265,
+          0.10833328462956994,
+          0.10666251075621923,
+          0.10405265169505645,
+          0.046721946842826774,
+          0.03493357785303753,
+          4.9450100088787365e-05
+        ],
+        "true_stereo": true
+      },
+      "images": [
+        {
+          "image": 1,
+          "spikes": 495154,
+          "downstream_spikes": 449227
+        },
+        {
+          "image": 2,
+          "spikes": 485630,
+          "downstream_spikes": 442003
+        },
+        {
+          "image": 3,
+          "spikes": 477112,
+          "downstream_spikes": 438951
+        },
+        {
+          "image": 4,
+          "spikes": 489013,
+          "downstream_spikes": 445471
+        },
+        {
+          "image": 5,
+          "spikes": 485468,
+          "downstream_spikes": 443905
+        },
+        {
+          "image": 6,
+          "spikes": 491214,
+          "downstream_spikes": 445695
+        },
+        {
+          "image": 7,
+          "spikes": 471936,
+          "downstream_spikes": 427426
+        },
+        {
+          "image": 8,
+          "spikes": 426436,
+          "downstream_spikes": 393151
+        },
+        {
+          "image": 9,
+          "spikes": 487626,
+          "downstream_spikes": 448684
+        },
+        {
+          "image": 10,
+          "spikes": 491774,
+          "downstream_spikes": 442757
+        },
+        {
+          "image": 11,
+          "spikes": 456649,
+          "downstream_spikes": 420978
+        },
+        {
+          "image": 12,
+          "spikes": 487512,
+          "downstream_spikes": 445457
+        },
+        {
+          "image": 13,
+          "spikes": 478616,
+          "downstream_spikes": 438289
+        },
+        {
+          "image": 14,
+          "spikes": 468157,
+          "downstream_spikes": 423350
+        },
+        {
+          "image": 15,
+          "spikes": 470781,
+          "downstream_spikes": 425418
+        }
+      ],
+      "minute_rms": [
+        0.08357933575459725,
+        0.10604613167581585,
+        0.10477353976649412,
+        0.09118648626135299,
+        0.09924723209042388,
+        0.03188985406411567
+      ]
+    },
+    {
+      "title": "Crescent Moon",
+      "midi": {
+        "duration_seconds": 328.00000000000176,
+        "notes": 873,
+        "notes_per_track": [
+          0,
+          318,
+          81,
+          113,
+          23,
+          64,
+          4,
+          270
+        ],
+        "markers": [
+          "Blue hour",
+          "Silver crescent",
+          "Night windows",
+          "Still water",
+          "Dark sky",
+          "Moonlight returns",
+          "Goodnight"
+        ],
+        "balanced_notes": true
+      },
+      "audio": {
+        "duration_seconds": 328.0,
+        "sample_rate": 48000,
+        "channels": 2,
+        "peak_dbfs": -1.2105230391594504,
+        "rms_dbfs": -20.863091801533482,
+        "silent_frame_percent": 4.798177083333333,
+        "ten_second_rms": [
+          0.04131377081396597,
+          0.04293824464024868,
+          0.0483600903589831,
+          0.09394543458932529,
+          0.10164076413264887,
+          0.10184031961762932,
+          0.09791278656373825,
+          0.083810511543222,
+          0.09604230499614139,
+          0.10636054249987058,
+          0.132339033805315,
+          0.11662918752105421,
+          0.12744264508579237,
+          0.1196261566095203,
+          0.11879214003110393,
+          0.11884624497294351,
+          0.09314341307436343,
+          0.08895032166427991,
+          0.09938562488309026,
+          0.09623249965956192,
+          0.05995991907666109,
+          0.05153356901336287,
+          0.0438073377916638,
+          0.09095103831302843,
+          0.10289691061035418,
+          0.08976309457462804,
+          0.09692021326819952,
+          0.09389022728290009,
+          0.08793134483313492,
+          0.07503151031276947,
+          0.05058956791998275,
+          0.03836058512051597,
+          0.0001287217193100481
+        ],
+        "true_stereo": true
+      },
+      "images": [
+        {
+          "image": 1,
+          "spikes": 455693,
+          "downstream_spikes": 415196
+        },
+        {
+          "image": 2,
+          "spikes": 440872,
+          "downstream_spikes": 402738
+        },
+        {
+          "image": 3,
+          "spikes": 455042,
+          "downstream_spikes": 415990
+        },
+        {
+          "image": 4,
+          "spikes": 456812,
+          "downstream_spikes": 424155
+        },
+        {
+          "image": 5,
+          "spikes": 473096,
+          "downstream_spikes": 435824
+        },
+        {
+          "image": 6,
+          "spikes": 391322,
+          "downstream_spikes": 358117
+        },
+        {
+          "image": 7,
+          "spikes": 472663,
+          "downstream_spikes": 439217
+        },
+        {
+          "image": 8,
+          "spikes": 432105,
+          "downstream_spikes": 393071
+        },
+        {
+          "image": 9,
+          "spikes": 478135,
+          "downstream_spikes": 445100
+        },
+        {
+          "image": 10,
+          "spikes": 477114,
+          "downstream_spikes": 432958
+        },
+        {
+          "image": 11,
+          "spikes": 343409,
+          "downstream_spikes": 309996
+        },
+        {
+          "image": 12,
+          "spikes": 479487,
+          "downstream_spikes": 444171
+        },
+        {
+          "image": 13,
+          "spikes": 470938,
+          "downstream_spikes": 428079
+        },
+        {
+          "image": 14,
+          "spikes": 373211,
+          "downstream_spikes": 337717
+        },
+        {
+          "image": 15,
+          "spikes": 457321,
+          "downstream_spikes": 421347
+        }
+      ],
+      "minute_rms": [
+        0.07683017979571417,
+        0.10666442098000381,
+        0.11208323003634943,
+        0.07700678678929931,
+        0.09148382263542157,
+        0.03794192991807969
+      ]
+    },
+    {
+      "title": "Bombolini",
+      "midi": {
+        "duration_seconds": 272.0000000000006,
+        "notes": 2047,
+        "notes_per_track": [
+          0,
+          537,
+          177,
+          288,
+          97,
+          32,
+          6,
+          910
+        ],
+        "markers": [
+          "Bakery door",
+          "Sugar theme",
+          "Custard conversation",
+          "Espresso break",
+          "Crumbs",
+          "One more bite",
+          "Sweet goodbye"
+        ],
+        "balanced_notes": true
+      },
+      "audio": {
+        "duration_seconds": 272.0,
+        "sample_rate": 48000,
+        "channels": 2,
+        "peak_dbfs": -1.2007860251624123,
+        "rms_dbfs": -19.80722950518623,
+        "silent_frame_percent": 0.9420113357843137,
+        "ten_second_rms": [
+          0.038642964590843445,
+          0.07778927219001502,
+          0.0882258969651802,
+          0.08455770982363868,
+          0.09940938263487148,
+          0.08989546772732523,
+          0.10534444253069729,
+          0.1410615975075116,
+          0.14923597762728488,
+          0.13011549449372586,
+          0.12867518981363082,
+          0.14327157147230257,
+          0.13587939638856764,
+          0.0752806353762817,
+          0.08717592335521218,
+          0.0855150622197229,
+          0.0866772796435295,
+          0.07640838543944392,
+          0.05081976600866859,
+          0.05172332166006636,
+          0.06566853516042954,
+          0.11138550127099613,
+          0.13478127526810305,
+          0.13589715077981482,
+          0.10723023392977064,
+          0.11114176677799904,
+          0.04202766519824616,
+          0.00019438996961340855
+        ],
+        "true_stereo": true
+      },
+      "images": [
+        {
+          "image": 1,
+          "spikes": 460291,
+          "downstream_spikes": 416589
+        },
+        {
+          "image": 2,
+          "spikes": 374176,
+          "downstream_spikes": 335334
+        },
+        {
+          "image": 3,
+          "spikes": 473160,
+          "downstream_spikes": 432833
+        },
+        {
+          "image": 4,
+          "spikes": 470005,
+          "downstream_spikes": 431841
+        },
+        {
+          "image": 5,
+          "spikes": 482862,
+          "downstream_spikes": 440699
+        },
+        {
+          "image": 6,
+          "spikes": 479635,
+          "downstream_spikes": 435957
+        },
+        {
+          "image": 7,
+          "spikes": 449980,
+          "downstream_spikes": 411062
+        },
+        {
+          "image": 8,
+          "spikes": 341919,
+          "downstream_spikes": 304051
+        },
+        {
+          "image": 9,
+          "spikes": 480291,
+          "downstream_spikes": 445405
+        },
+        {
+          "image": 10,
+          "spikes": 484634,
+          "downstream_spikes": 444569
+        },
+        {
+          "image": 11,
+          "spikes": 440990,
+          "downstream_spikes": 400949
+        },
+        {
+          "image": 12,
+          "spikes": 472695,
+          "downstream_spikes": 428670
+        },
+        {
+          "image": 13,
+          "spikes": 476495,
+          "downstream_spikes": 429495
+        },
+        {
+          "image": 14,
+          "spikes": 474295,
+          "downstream_spikes": 436991
+        },
+        {
+          "image": 15,
+          "spikes": 369710,
+          "downstream_spikes": 331037
+        }
+      ],
+      "minute_rms": [
+        0.0820992135974432,
+        0.13371692267305457,
+        0.09344699395621765,
+        0.09883577690391443,
+        0.08947266969352362
+      ]
+    }
+  ],
+  "continuous_master_bit_exact_concatenation": true,
+  "deterministic_recomposition": true,
+  "neural_feature_sensitivity": true,
+  "individual_image_sensitivity_checks": 105,
+  "mp3s_valid_with_cover_and_album_tags": true
+}

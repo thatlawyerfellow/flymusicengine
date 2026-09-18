@@ -1,0 +1,119 @@
+{
+  "passed": true,
+  "files": [
+    {
+      "file": "audio/01_Sunrise.mp3",
+      "title": "Sunrise",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "audio_unchanged": true,
+      "cover_verified": true
+    },
+    {
+      "file": "audio/02_Traffic.mp3",
+      "title": "Traffic",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "audio_unchanged": true,
+      "cover_verified": true
+    },
+    {
+      "file": "audio/03_High_Noon.mp3",
+      "title": "High Noon",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "audio_unchanged": true,
+      "cover_verified": true
+    },
+    {
+      "file": "audio/04_Rainy_Evening_Drizzle.mp3",
+      "title": "Rainy Evening Drizzle",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "audio_unchanged": true,
+      "cover_verified": true
+    },
+    {
+      "file": "audio/05_Sunset.mp3",
+      "title": "Sunset",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "audio_unchanged": true,
+      "cover_verified": true
+    },
+    {
+      "file": "audio/06_Crescent_Moon.mp3",
+      "title": "Crescent Moon",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "audio_unchanged": true,
+      "cover_verified": true
+    },
+    {
+      "file": "audio/07_Bombolini.mp3",
+      "title": "Bombolini",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "audio_unchanged": true,
+      "cover_verified": true
+    },
+    {
+      "file": "audio/Days_full_album.mp3",
+      "title": "Days",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "audio_unchanged": true,
+      "cover_verified": true
+    },
+    {
+      "file": "midi/01_Sunrise.mid",
+      "title": "Sunrise",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "musical_events_unchanged": true
+    },
+    {
+      "file": "midi/02_Traffic.mid",
+      "title": "Traffic",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "musical_events_unchanged": true
+    },
+    {
+      "file": "midi/03_High_Noon.mid",
+      "title": "High Noon",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "musical_events_unchanged": true
+    },
+    {
+      "file": "midi/04_Rainy_Evening_Drizzle.mid",
+      "title": "Rainy Evening Drizzle",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "musical_events_unchanged": true
+    },
+    {
+      "file": "midi/05_Sunset.mid",
+      "title": "Sunset",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "musical_events_unchanged": true
+    },
+    {
+      "file": "midi/06_Crescent_Moon.mid",
+      "title": "Crescent Moon",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "musical_events_unchanged": true
+    },
+    {
+      "file": "midi/07_Bombolini.mid",
+      "title": "Bombolini",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "musical_events_unchanged": true
+    }
+  ],
+  "midi_artwork": "midi/cover.png"
+}

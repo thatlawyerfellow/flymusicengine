@@ -1,0 +1,14 @@
+{
+  "duration": 0.5,
+  "trials": 2,
+  "inputs": 1000,
+  "seed": 20260917,
+  "device": "cpu",
+  "dt_ms": 0.1,
+  "model_sha256": "699655db7a56045271ba467268be153d0a3318d4cc4cecc0a13f33e69ce79667",
+  "connectivity_sha256": "efeb23fb99098e9c390f6869969b2a121a2ee92c833cfc45ecb2c1d8e1af0347",
+  "completeness_sha256": "52b0ac6094cd32c546f8d4c341e094376f48f4e791f8db9b166de5dff8199ea4",
+  "pipeline_sha256": "8ea2f0c2e48228ec2bf2bdc84ecc1cc4964da7655b6cf448da98007c312a64a9",
+  "cpu_adapter_sha256": "410483bfd6353f1d5eed29064c64f03ea905fe0b1c2c18649c61f827eb6118ad",
+  "image_sha256": "5263e2e9aceebe4eaab181d37a7add53cd1d2391bc692796a0eae36d37951114"
+}

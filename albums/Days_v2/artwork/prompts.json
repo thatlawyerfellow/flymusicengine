@@ -1,0 +1,635 @@
+{
+  "tool": "built-in image_gen",
+  "images": [
+    {
+      "scene": "sunrise",
+      "index": 1,
+      "path": "artwork/sunrise/01.png",
+      "prompt": "Generate one square cinematic fine-art photograph for the Sunrise scene of an instrumental jazz album. First sunlight breaking over a calm estuary, delicate low mist, luminous reflections, natural subtle grain, thoughtful spacious composition. No text, no logos, no collage. This is image 01 of 15 distinct sunrise scenes."
+    },
+    {
+      "scene": "sunrise",
+      "index": 2,
+      "path": "artwork/sunrise/02.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunrise scene. Subject: Sun rising through a dew-covered meadow, low camera among grasses. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunrise",
+      "index": 3,
+      "path": "artwork/sunrise/03.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunrise scene. Subject: Sunrise over terraced hills with soft layers of mist. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunrise",
+      "index": 4,
+      "path": "artwork/sunrise/04.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunrise scene. Subject: First rays between quiet city rooftops. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunrise",
+      "index": 5,
+      "path": "artwork/sunrise/05.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunrise scene. Subject: Dawn sun reflected in a still mountain lake. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunrise",
+      "index": 6,
+      "path": "artwork/sunrise/06.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunrise scene. Subject: Sunrise at an empty sandy shoreline with delicate wave patterns. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunrise",
+      "index": 7,
+      "path": "artwork/sunrise/07.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunrise scene. Subject: First sunlight on orchard blossoms. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunrise",
+      "index": 8,
+      "path": "artwork/sunrise/08.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunrise scene. Subject: Dawn seen through an open apartment window. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunrise",
+      "index": 9,
+      "path": "artwork/sunrise/09.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunrise scene. Subject: Low morning sun illuminating a river bridge. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunrise",
+      "index": 10,
+      "path": "artwork/sunrise/10.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunrise scene. Subject: Sun rising behind dunes, rippled sand in foreground. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunrise",
+      "index": 11,
+      "path": "artwork/sunrise/11.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunrise scene. Subject: Sunrise through tall pine trunks. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunrise",
+      "index": 12,
+      "path": "artwork/sunrise/12.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunrise scene. Subject: Morning light across a small fishing harbor. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunrise",
+      "index": 13,
+      "path": "artwork/sunrise/13.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunrise scene. Subject: Dawn over rolling tea fields. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunrise",
+      "index": 14,
+      "path": "artwork/sunrise/14.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunrise scene. Subject: Sunrise reflected in shallow tidal pools. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunrise",
+      "index": 15,
+      "path": "artwork/sunrise/15.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunrise scene. Subject: First light over a winding rural road. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "traffic",
+      "index": 1,
+      "path": "artwork/traffic/01.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's traffic scene. Subject: Busy city intersection, layered cars and buses, pedestrian-height view. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "traffic",
+      "index": 2,
+      "path": "artwork/traffic/02.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's traffic scene. Subject: Slow commuter traffic viewed from an overpass. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "traffic",
+      "index": 3,
+      "path": "artwork/traffic/03.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's traffic scene. Subject: Red brake lights receding along an urban avenue. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "traffic",
+      "index": 4,
+      "path": "artwork/traffic/04.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's traffic scene. Subject: Traffic reflected in a bus window. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "traffic",
+      "index": 5,
+      "path": "artwork/traffic/05.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's traffic scene. Subject: Cars curving around a compact city roundabout. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "traffic",
+      "index": 6,
+      "path": "artwork/traffic/06.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's traffic scene. Subject: A taxi waiting in a queue beneath elevated rail tracks. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "traffic",
+      "index": 7,
+      "path": "artwork/traffic/07.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's traffic scene. Subject: Bicycles and cars sharing a morning street. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "traffic",
+      "index": 8,
+      "path": "artwork/traffic/08.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's traffic scene. Subject: Dense traffic between tall downtown buildings. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "traffic",
+      "index": 9,
+      "path": "artwork/traffic/09.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's traffic scene. Subject: A city bus moving through a bustling junction. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "traffic",
+      "index": 10,
+      "path": "artwork/traffic/10.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's traffic scene. Subject: Headlights entering a road tunnel at dusk. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "traffic",
+      "index": 11,
+      "path": "artwork/traffic/11.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's traffic scene. Subject: Traffic streaming across a broad suspension bridge. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "traffic",
+      "index": 12,
+      "path": "artwork/traffic/12.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's traffic scene. Subject: Rain-polished road with moving cars and soft reflections. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "traffic",
+      "index": 13,
+      "path": "artwork/traffic/13.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's traffic scene. Subject: A delivery scooter threading through stationary vehicles. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "traffic",
+      "index": 14,
+      "path": "artwork/traffic/14.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's traffic scene. Subject: Late afternoon traffic viewed through a windshield. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "traffic",
+      "index": 15,
+      "path": "artwork/traffic/15.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's traffic scene. Subject: Night traffic with long exposure light trails. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "high_noon",
+      "index": 1,
+      "path": "artwork/high_noon/01.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's high noon scene. Subject: Whitewashed town square at high noon with short sharp shadows. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "high_noon",
+      "index": 2,
+      "path": "artwork/high_noon/02.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's high noon scene. Subject: Vertical noon sun over a bright open desert. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "high_noon",
+      "index": 3,
+      "path": "artwork/high_noon/03.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's high noon scene. Subject: Hard midday light on a quiet swimming pool. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "high_noon",
+      "index": 4,
+      "path": "artwork/high_noon/04.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's high noon scene. Subject: Noon sunlight falling through a courtyard skylight. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "high_noon",
+      "index": 5,
+      "path": "artwork/high_noon/05.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's high noon scene. Subject: Bright midday beach with sparkling sea. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "high_noon",
+      "index": 6,
+      "path": "artwork/high_noon/06.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's high noon scene. Subject: Sun directly overhead above broad agricultural fields. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "high_noon",
+      "index": 7,
+      "path": "artwork/high_noon/07.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's high noon scene. Subject: Short shadows of palms on warm pavement. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "high_noon",
+      "index": 8,
+      "path": "artwork/high_noon/08.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's high noon scene. Subject: Noon light on geometric concrete steps. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "high_noon",
+      "index": 9,
+      "path": "artwork/high_noon/09.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's high noon scene. Subject: A sunlit outdoor cafe terrace at midday. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "high_noon",
+      "index": 10,
+      "path": "artwork/high_noon/10.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's high noon scene. Subject: Glittering river under the highest sun. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "high_noon",
+      "index": 11,
+      "path": "artwork/high_noon/11.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's high noon scene. Subject: Midday light across a rocky plateau. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "high_noon",
+      "index": 12,
+      "path": "artwork/high_noon/12.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's high noon scene. Subject: High noon on an empty basketball court. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "high_noon",
+      "index": 13,
+      "path": "artwork/high_noon/13.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's high noon scene. Subject: Hard overhead sunlight on market awnings. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "high_noon",
+      "index": 14,
+      "path": "artwork/high_noon/14.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's high noon scene. Subject: A lone tree and its compact midday shadow. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "high_noon",
+      "index": 15,
+      "path": "artwork/high_noon/15.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's high noon scene. Subject: Bright noon sun above a Mediterranean harbor. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "index": 1,
+      "path": "artwork/rainy_evening_drizzle/01.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's rainy evening drizzle scene. Subject: Fine evening drizzle on a quiet lamp-lit street. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "index": 2,
+      "path": "artwork/rainy_evening_drizzle/02.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's rainy evening drizzle scene. Subject: Raindrops on a cafe window overlooking a dusky sidewalk. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "index": 3,
+      "path": "artwork/rainy_evening_drizzle/03.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's rainy evening drizzle scene. Subject: Soft evening rain on a riverside promenade. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "index": 4,
+      "path": "artwork/rainy_evening_drizzle/04.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's rainy evening drizzle scene. Subject: Umbrellas moving through light drizzle at twilight. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "index": 5,
+      "path": "artwork/rainy_evening_drizzle/05.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's rainy evening drizzle scene. Subject: Tiny raindrops collecting on balcony plants at dusk. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "index": 6,
+      "path": "artwork/rainy_evening_drizzle/06.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's rainy evening drizzle scene. Subject: Fine drizzle beneath a warm streetlamp. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "index": 7,
+      "path": "artwork/rainy_evening_drizzle/07.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's rainy evening drizzle scene. Subject: Damp evening pavement reflecting shop windows. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "index": 8,
+      "path": "artwork/rainy_evening_drizzle/08.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's rainy evening drizzle scene. Subject: Light rain over a quiet canal at evening. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "index": 9,
+      "path": "artwork/rainy_evening_drizzle/09.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's rainy evening drizzle scene. Subject: Drizzle on a suburban porch at blue hour. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "index": 10,
+      "path": "artwork/rainy_evening_drizzle/10.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's rainy evening drizzle scene. Subject: An evening tram stop through delicate rain. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "index": 11,
+      "path": "artwork/rainy_evening_drizzle/11.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's rainy evening drizzle scene. Subject: Tiny rings from drizzle in a shallow puddle at dusk. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "index": 12,
+      "path": "artwork/rainy_evening_drizzle/12.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's rainy evening drizzle scene. Subject: Light evening rain in a leafy park. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "index": 13,
+      "path": "artwork/rainy_evening_drizzle/13.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's rainy evening drizzle scene. Subject: Drizzly evening rooftops seen from an upstairs window. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "index": 14,
+      "path": "artwork/rainy_evening_drizzle/14.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's rainy evening drizzle scene. Subject: A bicycle resting beside a wet brick wall at twilight. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "rainy_evening_drizzle",
+      "index": 15,
+      "path": "artwork/rainy_evening_drizzle/15.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's rainy evening drizzle scene. Subject: Fine rain passing through distant evening city lights. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunset",
+      "index": 1,
+      "path": "artwork/sunset/01.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunset scene. Subject: Orange sun sinking behind a calm sea. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunset",
+      "index": 2,
+      "path": "artwork/sunset/02.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunset scene. Subject: Sunset over a winding river and low hills. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunset",
+      "index": 3,
+      "path": "artwork/sunset/03.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunset scene. Subject: Warm sunset illuminating apartment windows. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunset",
+      "index": 4,
+      "path": "artwork/sunset/04.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunset scene. Subject: Deep sunset reflections across wet tidal sand. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunset",
+      "index": 5,
+      "path": "artwork/sunset/05.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunset scene. Subject: Last light through a field of tall grasses. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunset",
+      "index": 6,
+      "path": "artwork/sunset/06.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunset scene. Subject: Sunset silhouetting a quiet pier. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunset",
+      "index": 7,
+      "path": "artwork/sunset/07.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunset scene. Subject: Copper sunset clouds above a broad valley. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunset",
+      "index": 8,
+      "path": "artwork/sunset/08.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunset scene. Subject: Low sun glowing through an orchard. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunset",
+      "index": 9,
+      "path": "artwork/sunset/09.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunset scene. Subject: Sunset over distant mountain ridges. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunset",
+      "index": 10,
+      "path": "artwork/sunset/10.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunset scene. Subject: Pink sunset reflected in a small harbor. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunset",
+      "index": 11,
+      "path": "artwork/sunset/11.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunset scene. Subject: Last sunlight on weathered sandstone. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunset",
+      "index": 12,
+      "path": "artwork/sunset/12.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunset scene. Subject: Sunset framed by an open balcony. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunset",
+      "index": 13,
+      "path": "artwork/sunset/13.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunset scene. Subject: Warm evening sky above a desert road. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunset",
+      "index": 14,
+      "path": "artwork/sunset/14.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunset scene. Subject: Sunset over a calm lake with reeds. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "sunset",
+      "index": 15,
+      "path": "artwork/sunset/15.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's sunset scene. Subject: Violet and amber clouds after the sun touches the horizon. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "crescent_moon",
+      "index": 1,
+      "path": "artwork/crescent_moon/01.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's crescent moon scene. Subject: A slender crescent moon above a quiet dark-blue sea. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "crescent_moon",
+      "index": 2,
+      "path": "artwork/crescent_moon/02.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's crescent moon scene. Subject: Waxing crescent over distant rooftops at blue hour. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "crescent_moon",
+      "index": 3,
+      "path": "artwork/crescent_moon/03.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's crescent moon scene. Subject: Crescent moon framed by bare branches. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "crescent_moon",
+      "index": 4,
+      "path": "artwork/crescent_moon/04.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's crescent moon scene. Subject: Thin crescent above low desert dunes. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "crescent_moon",
+      "index": 5,
+      "path": "artwork/crescent_moon/05.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's crescent moon scene. Subject: Crescent moon over a still alpine lake. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "crescent_moon",
+      "index": 6,
+      "path": "artwork/crescent_moon/06.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's crescent moon scene. Subject: Small crescent above a quiet city skyline. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "crescent_moon",
+      "index": 7,
+      "path": "artwork/crescent_moon/07.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's crescent moon scene. Subject: Crescent moon beyond a dimly lit balcony. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "crescent_moon",
+      "index": 8,
+      "path": "artwork/crescent_moon/08.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's crescent moon scene. Subject: Slender crescent over a cypress-lined hillside. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "crescent_moon",
+      "index": 9,
+      "path": "artwork/crescent_moon/09.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's crescent moon scene. Subject: Crescent moon visible between soft night clouds. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "crescent_moon",
+      "index": 10,
+      "path": "artwork/crescent_moon/10.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's crescent moon scene. Subject: Crescent above a fishing harbor at twilight. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "crescent_moon",
+      "index": 11,
+      "path": "artwork/crescent_moon/11.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's crescent moon scene. Subject: Thin crescent over a dark rolling landscape. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "crescent_moon",
+      "index": 12,
+      "path": "artwork/crescent_moon/12.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's crescent moon scene. Subject: Crescent moon reflected faintly in a quiet canal. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "crescent_moon",
+      "index": 13,
+      "path": "artwork/crescent_moon/13.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's crescent moon scene. Subject: Crescent above snow-dusted mountain peaks. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "crescent_moon",
+      "index": 14,
+      "path": "artwork/crescent_moon/14.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's crescent moon scene. Subject: Slender crescent framed by a stone archway. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "crescent_moon",
+      "index": 15,
+      "path": "artwork/crescent_moon/15.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's crescent moon scene. Subject: Crescent moon over a secluded seaside terrace. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. "
+    },
+    {
+      "scene": "bombolini",
+      "index": 1,
+      "path": "artwork/bombolini/01.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's bombolini scene. Subject: Sugar-dusted Italian bomboloni doughnuts on a ceramic plate. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. Authentic round filled Italian doughnuts without central holes."
+    },
+    {
+      "scene": "bombolini",
+      "index": 2,
+      "path": "artwork/bombolini/02.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's bombolini scene. Subject: One custard-filled bombolone torn open to show airy crumb. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. Authentic round filled Italian doughnuts without central holes."
+    },
+    {
+      "scene": "bombolini",
+      "index": 3,
+      "path": "artwork/bombolini/03.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's bombolini scene. Subject: A tray of freshly fried round bomboloni in a bakery. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. Authentic round filled Italian doughnuts without central holes."
+    },
+    {
+      "scene": "bombolini",
+      "index": 4,
+      "path": "artwork/bombolini/04.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's bombolini scene. Subject: Close view of a bombolone with a small custard-filled opening. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. Authentic round filled Italian doughnuts without central holes."
+    },
+    {
+      "scene": "bombolini",
+      "index": 5,
+      "path": "artwork/bombolini/05.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's bombolini scene. Subject: Three jam-filled Italian bomboloni on parchment paper. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. Authentic round filled Italian doughnuts without central holes."
+    },
+    {
+      "scene": "bombolini",
+      "index": 6,
+      "path": "artwork/bombolini/06.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's bombolini scene. Subject: Bomboloni beside a small espresso cup on a cafe table. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. Authentic round filled Italian doughnuts without central holes."
+    },
+    {
+      "scene": "bombolini",
+      "index": 7,
+      "path": "artwork/bombolini/07.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's bombolini scene. Subject: A baker's hands dusting round filled bomboloni with sugar. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. Authentic round filled Italian doughnuts without central holes."
+    },
+    {
+      "scene": "bombolini",
+      "index": 8,
+      "path": "artwork/bombolini/08.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's bombolini scene. Subject: Warm bomboloni cooling on a wire rack. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. Authentic round filled Italian doughnuts without central holes."
+    },
+    {
+      "scene": "bombolini",
+      "index": 9,
+      "path": "artwork/bombolini/09.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's bombolini scene. Subject: Chocolate-filled bombolone cut in half on a small plate. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. Authentic round filled Italian doughnuts without central holes."
+    },
+    {
+      "scene": "bombolini",
+      "index": 10,
+      "path": "artwork/bombolini/10.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's bombolini scene. Subject: A paper bag holding golden sugar-coated bomboloni. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. Authentic round filled Italian doughnuts without central holes."
+    },
+    {
+      "scene": "bombolini",
+      "index": 11,
+      "path": "artwork/bombolini/11.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's bombolini scene. Subject: Overhead view of round custard-filled bomboloni. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. Authentic round filled Italian doughnuts without central holes."
+    },
+    {
+      "scene": "bombolini",
+      "index": 12,
+      "path": "artwork/bombolini/12.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's bombolini scene. Subject: A single bombolone on a linen-covered breakfast table. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. Authentic round filled Italian doughnuts without central holes."
+    },
+    {
+      "scene": "bombolini",
+      "index": 13,
+      "path": "artwork/bombolini/13.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's bombolini scene. Subject: Pistachio-cream-filled Italian bomboloni on a bakery counter. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. Authentic round filled Italian doughnuts without central holes."
+    },
+    {
+      "scene": "bombolini",
+      "index": 14,
+      "path": "artwork/bombolini/14.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's bombolini scene. Subject: Close detail of sugar crystals on a golden bombolone. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. Authentic round filled Italian doughnuts without central holes."
+    },
+    {
+      "scene": "bombolini",
+      "index": 15,
+      "path": "artwork/bombolini/15.png",
+      "prompt": "Use case: photorealistic-natural. Generate one square cinematic fine-art photograph for an instrumental jazz album's bombolini scene. Subject: A generous plate of mixed cream and jam bomboloni. Natural believable textures, carefully observed light, thoughtful composition, subtle film grain. No text, no logos, no watermark, no collage. Authentic round filled Italian doughnuts without central holes."
+    }
+  ]
+}

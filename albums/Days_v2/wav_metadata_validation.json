@@ -1,0 +1,77 @@
+{
+  "passed": true,
+  "files": [
+    {
+      "file": "audio/01_Sunrise.wav",
+      "title": "Sunrise",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "pcm_sha256": "9b7a25f99a4763b4c7bd4d7d715f625ae7321976cc0859eeaf189e8d52803abc",
+      "audio_unchanged": true,
+      "embedded_cover_verified": true
+    },
+    {
+      "file": "audio/02_Traffic.wav",
+      "title": "Traffic",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "pcm_sha256": "3a73b8a0e9758f85012a4fa644e979e26bacb6ccc1e2cca5b1243fa2d31c92a6",
+      "audio_unchanged": true,
+      "embedded_cover_verified": true
+    },
+    {
+      "file": "audio/03_High_Noon.wav",
+      "title": "High Noon",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "pcm_sha256": "0b9a62c43c1087b4748d500b1562524fa42cf43198c623e80e95d724cf318bd6",
+      "audio_unchanged": true,
+      "embedded_cover_verified": true
+    },
+    {
+      "file": "audio/04_Rainy_Evening_Drizzle.wav",
+      "title": "Rainy Evening Drizzle",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "pcm_sha256": "2c6b6134750d8ec6038973a844f03e4a78bdce11425b709f47c077f76915e3a3",
+      "audio_unchanged": true,
+      "embedded_cover_verified": true
+    },
+    {
+      "file": "audio/05_Sunset.wav",
+      "title": "Sunset",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "pcm_sha256": "ad3ccb84b08ae45d3078919c77f42269b4e40b280a5491d7027e659eede04a25",
+      "audio_unchanged": true,
+      "embedded_cover_verified": true
+    },
+    {
+      "file": "audio/06_Crescent_Moon.wav",
+      "title": "Crescent Moon",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "pcm_sha256": "5832ead5db4c3e69e31cefebdb017d3150507cc884fe07bca24fc3303d9e3cf0",
+      "audio_unchanged": true,
+      "embedded_cover_verified": true
+    },
+    {
+      "file": "audio/07_Bombolini.wav",
+      "title": "Bombolini",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "pcm_sha256": "39b8f5694e38392f8ab3dbe19907286600b831fd48c47d30b15ebbd4caf77b2e",
+      "audio_unchanged": true,
+      "embedded_cover_verified": true
+    },
+    {
+      "file": "audio/Days_full_album.wav",
+      "title": "Days",
+      "artist": "Fly on a Wall",
+      "album": "Days",
+      "pcm_sha256": "5b4915f281d290b6d0d023635a5ec64ef5a993b60548af78f176b97ce811ad49",
+      "audio_unchanged": true,
+      "embedded_cover_verified": true
+    }
+  ]
+}
