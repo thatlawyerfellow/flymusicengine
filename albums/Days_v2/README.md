@@ -21,6 +21,9 @@ Each file is 48 kHz / 24-bit stereo and includes its title, artist, album,
 front-cover artwork, CC BY-NC 4.0 notice, and the original SoundFont credits.
 Some players do not display embedded WAV artwork.
 
+The [track-by-track composition notes](TRACK_NOTES.md) explain which musical
+choices were written into the program and what the simulation changed in each song.
+
 The [main README](../../README.md) explains the image encoding, fly-brain
 simulation, neural-to-music mappings, and compositional logic.
 [Prompts](artwork/prompts.json), [neural measurements](neural/provenance.json),

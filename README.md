@@ -24,6 +24,16 @@ and its scientific background.
 | Bombolini | 4:32 | Clarinet, piano, vibraphone, and a lively bass line |
 | **Complete album** | **34:00** | **48 kHz / 24-bit stereo WAV** |
 
+## Who composed it?
+
+The AI assistant wrote the musical rules and implementation from the user’s scene
+and album brief. The simulated fly-brain activity supplied measurements that
+influenced choices within those rules; it did not independently compose the album.
+
+[Read the track-by-track account](albums/Days_v2/TRACK_NOTES.md) for each song’s
+jazz vocabulary, chord options, instruments, tempo, duration, structure, and the
+specific neural controls applied to melody, harmony, rhythm, dynamics, and phrasing.
+
 ## How we made the music
 
 ### 1. Build a visual sequence for each scene
