@@ -16,6 +16,16 @@ Seven scenes, 105 generated source images, and **34:00** of instrumental jazz.
 | [Bombolini](https://github.com/thatlawyerfellow/flymusicengine/releases/download/days-v1.0/07_Bombolini.wav) | 4:32 |
 | [Days — complete album](https://github.com/thatlawyerfellow/flymusicengine/releases/download/days-v1.0/Days_full_album.wav) | 34:00 |
 
+## About the songs
+
+- **Sunrise** — A gentle opening with acoustic piano, muted trumpet, and warm major harmonies. Its unhurried swing evokes open windows and the first light of a new day.
+- **Traffic** — Alto saxophone, walking bass, and brisk swing capture the bustle of a city in motion. Piano passages and a quieter interlude offer a pause before the rush returns.
+- **High Noon** — Tenor saxophone and bright acoustic piano trade the foreground over a steady swing. Rich chords and rhythmic accents suggest hot pavement, sharp shadows, and a brief retreat into shade.
+- **Rainy Evening Drizzle** — Soft electric piano and soprano saxophone drift over sparse drums and gentle minor harmonies. A slow, reflective piece inspired by raindrops, passing umbrellas, and light on wet streets.
+- **Sunset** — Muted trumpet and acoustic piano trace a warm, wistful melody through shifting minor harmonies. The restrained arrangement moves from long shadows toward a quiet afterglow.
+- **Crescent Moon** — The album’s slowest track pairs electric piano with ringing vibraphone and plenty of space between phrases. Lingering notes and delicate accompaniment evoke still water beneath a night sky.
+- **Bombolini** — A playful finale inspired by the filled Italian doughnut, with lively piano, a vibraphone solo, and touches of clarinet. Walking bass and buoyant swing close the day with the feel of a bakery stop and one more sweet bite.
+
 The release contains only WAV audio: seven tracks plus the continuous master.
 Each file is 48 kHz / 24-bit stereo and includes its title, artist, album,
 front-cover artwork, CC BY-NC 4.0 notice, and the original SoundFont credits.

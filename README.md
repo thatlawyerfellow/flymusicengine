@@ -24,6 +24,16 @@ and its scientific background.
 | Bombolini | 4:32 | Clarinet, piano, vibraphone, and a lively bass line |
 | **Complete album** | **34:00** | **48 kHz / 24-bit stereo WAV** |
 
+## About the songs
+
+- **Sunrise** — A gentle opening with acoustic piano, muted trumpet, and warm major harmonies. Its unhurried swing evokes open windows and the first light of a new day.
+- **Traffic** — Alto saxophone, walking bass, and brisk swing capture the bustle of a city in motion. Piano passages and a quieter interlude offer a pause before the rush returns.
+- **High Noon** — Tenor saxophone and bright acoustic piano trade the foreground over a steady swing. Rich chords and rhythmic accents suggest hot pavement, sharp shadows, and a brief retreat into shade.
+- **Rainy Evening Drizzle** — Soft electric piano and soprano saxophone drift over sparse drums and gentle minor harmonies. A slow, reflective piece inspired by raindrops, passing umbrellas, and light on wet streets.
+- **Sunset** — Muted trumpet and acoustic piano trace a warm, wistful melody through shifting minor harmonies. The restrained arrangement moves from long shadows toward a quiet afterglow.
+- **Crescent Moon** — The album’s slowest track pairs electric piano with ringing vibraphone and plenty of space between phrases. Lingering notes and delicate accompaniment evoke still water beneath a night sky.
+- **Bombolini** — A playful finale inspired by the filled Italian doughnut, with lively piano, a vibraphone solo, and touches of clarinet. Walking bass and buoyant swing close the day with the feel of a bakery stop and one more sweet bite.
+
 ## Who composed it?
 
 The AI assistant wrote the musical rules and implementation from the user’s scene
